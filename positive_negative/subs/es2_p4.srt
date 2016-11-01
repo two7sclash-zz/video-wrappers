@@ -1,0 +1,278 @@
+0
+00:00:00,000 --> 00:00:08,500
+Okay, I think I understand. But another question, "How can wee tell which is postive 
+and which is negative?"
+
+1
+00:00:08,500 --> 00:00:15,000
+Professor: Okay, is there any electrical situation where you can tell what's positive and 
+what's negative?
+
+2
+00:00:15,000 --> 00:00:20,000
+A battery. The top thingy, it's postive.
+Professor: How do you know?
+
+3
+00:00:20,000 --> 00:00:23,500
+It says so right on the battery. 
+
+4
+00:00:23,500 --> 00:00:27,000
+But is that the same type of electricity?
+Professor: That's a very good question.
+
+5
+00:00:27,000 --> 00:00:33,500
+Michael Faraday did a little series of investigations to test that very thing almost 200
+years ago. 
+
+6
+00:00:33,500 --> 00:00:39,500
+Tell you what. We'll go high tech, we got a charge sensor set up over at the next table. 
+
+7
+00:00:39,500 --> 00:00:45,000
+Why don't we go and see if we can make use that and find out what's going on. 
+
+8
+00:00:54,500 --> 00:00:59,500
+Okay guys. This is a charge sensor. 
+
+9
+00:00:59,500 --> 00:01:06,000
+It's a sensitive device that allows us to detect electrostatic charge. You can find out 
+about how it works later on. 
+
+10
+00:01:06,000 --> 00:01:10,500
+But today we'll just use it to tell us what's positive and what's negative. 
+
+11
+00:01:10,500 --> 00:01:18,500
+Okay, to use this thing, first we have to make sure if we zeroed it. I've connected the 
+red lead from it to the ground lead. 
+
+12
+00:01:18,500 --> 00:01:27,500
+And I'm now going to press the "zero" button. So now it's going to be zeroed. I've also
+got a couple batteries over here. The two batteries are stuck together. 
+
+13
+00:01:27,500 --> 00:01:31,000
+And our ground lead is connected to the junction between them.
+
+14
+00:01:31,000 --> 00:01:40,000
+So now what we're going to do is to disconnect the red lead here and we'll see if we can 
+use it to determine the sign of the charge.
+
+15
+00:01:40,000 --> 00:01:45,000
+So, we'll start with this thing running and...
+
+16
+00:01:45,000 --> 00:01:52,500
+..then zero it agin. Okay, Robert pick up the red lead and bring it near the postive 
+terminal of that pair of batteries. 
+
+17
+00:01:52,000 --> 00:01:56,500
+Robert: Alright. And look! It goes postive.
+
+18
+00:01:56,500 --> 00:02:02,500
+Professor: Okay, very good. Now bring it to the negatie terminal. Let me zero it first. 
+Okay bring it near the negative terminal. 
+
+19
+00:02:02,500 --> 00:02:06,000
+Robert: Oh! It goes negative. 
+
+20
+00:02:06,000 --> 00:02:13,250
+Professor: Okay so now we've got a device that we can use to detect negative and positive
+charge. 
+
+21
+00:02:13,250 --> 00:02:19,000
+So let's set it up and see if we can figure out what happens with the pointy and square
+tapes.
+
+22
+00:02:19,000 --> 00:02:26,500
+Okay. I'm going to take and connect the red lead to this can here and we'll... 
+
+23
+00:02:26,500 --> 00:02:33,000
+...actually stop this graph and start it again here in a second. So now, let's see. 
+
+24
+00:02:33,000 --> 00:02:37,000
+You want to clear the data on that, please? 
+
+25
+00:02:37,500 --> 00:02:43,000
+Alright, so we're ready to go. This can is going to act as a sensitive antenna to detect
+what happens. 
+
+26
+00:02:43,000 --> 00:02:47,000
+And we've got the sheet of aluminum foil here that'll act like a reference.
+
+27
+00:02:47,000 --> 00:02:52,500
+Just like the piece of aluminum foil connected in between the two batteries acted as a 
+reference there.
+
+28
+00:02:52,500 --> 00:02:57,000
+Got some new pointy and square tapes ready to go? 
+
+29
+00:02:57,000 --> 00:03:01,000
+Okay, we'll start our data.
+
+30
+00:03:04,000 --> 00:03:08,500
+Zero it again, okay. 
+Robert: So, when I bring the pointy tape in
+
+31
+00:03:08,500 --> 00:03:14,000
+Leah: It goes positive. 
+Robert: And when I take it away. 
+
+32
+00:03:14,000 --> 00:03:18,000
+Sidney: It goes down. Bring it in. 
+
+33
+00:03:19,500 --> 00:03:24,500
+Leah: That's pretty cool. 
+Robert: Yeah, so I guess the pointy tape must be postive.  
+
+34
+00:03:24,500 --> 00:03:27,000
+Sidney: Okay.
+Professor: We'll zero it again 
+
+35
+00:03:27,500 --> 00:03:32,000
+Sidney: Alright, well here comes the square tape. 
+Leah: That's definitely negative. 
+
+36
+00:03:32,000 --> 00:03:36,000
+Robert: Ooo! What happens when I bring them both in? 
+
+37
+00:03:37,000 --> 00:03:41,000
+Leah: It goes up to back around zero.
+Robert: Huh 
+
+38
+00:03:41,000 --> 00:03:46,500
+Robert: Oh, look! If I change the distances, I can make the line go up and down.  
+
+39
+00:03:46,500 --> 00:03:56,000
+Sidney: Okay, bring the tapes together and then bring them in.
+Professor: Okay, hold it. I'm going to restart this. 
+
+40
+00:03:58,500 --> 00:04:01,500
+Professor: And... okay we're ready to go. 
+
+41
+00:04:01,500 --> 00:04:06,000
+Robert: Alright. So if bring them both together stuck,...
+
+42
+00:04:06,000 --> 00:04:16,000
+Leah: Hmm, it's around zero, but not quite.
+Professor: That's right. It turns out that in handling tapes, you might add a little
+bit of charge or take a little bit of charge away...
+
+43
+00:04:16,000 --> 00:04:22,500
+...and you actually have to be careful about whether you're scuttering around in your 
+chair or something, you can get charge.
+
+44
+00:04:22,500 --> 00:04:29,000
+In fact, if you watch electronic technicians, they often have a wrist band that's 
+connected to a wire to ground.
+
+45
+00:04:29,000 --> 00:04:35,000
+That's so they don't any stray charge and maybe zap the chip. 
+
+46
+00:04:35,000 --> 00:04:38,500
+Okay, so now you have something you can find out about charges with. 
+
+47
+00:04:38,500 --> 00:04:42,500
+Robert: Yeah, we can measure the charges of all the stuff we've been using. 
+
+48
+00:04:42,500 --> 00:04:51,000
+Professor: Very good. Well, I've got to go now, so I'll leave you all and drop back in 
+later and see if you have any questions. Have fun. 
+
+49
+00:04:52,000 --> 00:04:56,000
+Sidney, how about you clear the data and we can start over. 
+Sidney: Alright, sure. 
+
+50
+00:05:02,000 --> 00:05:04,500
+Robert: Yeah, push it again.
+
+51
+00:05:04,500 --> 00:05:10,000
+Leah: Alright, I'm charged. 
+Robert: Alright. 
+Sidney: Alright, let me zero it. Bring it in. 
+
+52
+00:05:10,500 --> 00:05:16,000
+Robert: Alright, that's negatively charged. How about the foam plate?
+Sidney: Let me zero it again. There we go. Looks like...
+
+53
+00:05:16,000 --> 00:05:20,000
+All: That's really negative
+Sidney: Let me zero it one more time
+
+54
+00:05:20,000 --> 00:05:24,000
+Robert: And what about the fur?
+
+55
+00:05:24,000 --> 00:05:29,000
+It's a little postive. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

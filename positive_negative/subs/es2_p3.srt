@@ -1,0 +1,57 @@
+0
+00:00:00,000 --> 00:00:08,000
+Its a difficult issue. It turns out to understand that, you need to know something about
+the quantum mechanics of atomic physics. 
+
+1
+00:00:08,000 --> 00:00:14,000
+That's beyond what we'e going to do this course. But let me just show you an example
+of that.
+
+2
+00:00:14,000 --> 00:00:21,000
+We've got foam plates here and we've been rubbing them with things. I rubbed this foam
+plate with fur.
+
+3
+00:00:21,000 --> 00:00:32,500
+That stick really well. Here's another exactly identical foam plate. I rub it with the 
+paper towel. Almost nothing happens between them.
+
+4
+00:00:32,500 --> 00:00:38,000
+So really depends upon the nature of the pairs of materials that you're working with. 
+
+5
+00:00:38,000 --> 00:00:46,000
+With the tapes we've been working with, when we pull them apart, we break some of the 
+bonds in the sticky stuff that's in between them. 
+
+6
+00:00:46,000 --> 00:00:54,000
+And parts of those molecules tend to have an extra electron and parts of them tend to 
+have lost an electron.
+
+7
+00:00:54,000 --> 00:01:02,000
+And so enough of those breaks occur in that way that we get attraction between them.
+Opposite charges. 
+
+8
+00:01:02,000 --> 00:01:10,000
+So, if I understand this the right way, it means that the sticky stuff sort of has a 
+chemical reaction with the smooth side of the tape. 
+
+9
+00:01:10,000 --> 00:01:21,000
+So then when you pull them apart, the tape that was on top that lost some sticky stuff,
+it lost some of its charge. 
+
+10
+00:01:21,000 --> 00:01:29,000
+And they're oppositely charged now because one tape has more electrons and the other tape
+lost a few electrons. 
+
+11
+00:01:29,000 --> 00:01:31,000
+Professor: Good summary.

@@ -1,0 +1,40 @@
+0
+00:00:00,000 --> 00:00:04,000
+When I did the analysis, I saw that the velocity time graph was a straight line.
+
+1
+00:00:04,000 --> 00:00:08,000
+In other words, the velocity increased at a steady rate. 
+
+2
+00:00:08,000 --> 00:00:11,000
+The slope of a velocity time graph is what we call the acceleration,
+
+3
+00:00:11,000 --> 00:00:16,000
+and what we've just seen is that a constant force leads to a constant acceleration. 
+
+4
+00:00:16,000 --> 00:00:22,000
+In reality, there are many forces acting on an object, so a more accurate statement is,
+
+5
+00:00:22,000 --> 00:00:26,000
+a constant NET force leads to a constant acceleration. 
+
+6
+00:00:26,000 --> 00:00:29,000
+Now what I'd like to do is repeat the previous experiment with one small change. 
+
+7
+00:00:29,000 --> 00:00:34,000
+I'll use the same fan as before so that we have the same force,
+
+8
+00:00:34,000 --> 00:00:40,000
+but I'd like to add mass to the cart so there's exactly twice as much mass as there was in the previous experiment.
+
+9
+00:00:40,000 --> 00:00:48,000
+How do you think the acceleration will change when you have the same force acting on a cart with twice the mass?
+

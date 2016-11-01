@@ -1,0 +1,112 @@
+0
+00:00:00,000 --> 00:00:05,500
+[sound effects]
+
+1
+00:00:05,500 --> 00:00:10,500
+We're here at the tennis courts at Dickinson College to do a very exciting experiment.
+
+2
+00:00:10,500 --> 00:00:17,500
+And what we have is a canister of compressed gas, carbon dioxide, connected to a wheeled vehicle.
+
+3
+00:00:17,500 --> 00:00:25,500
+When we open the nozzle the carbon dioxide shoots out and that will push the cart in the other direction.
+
+4
+00:00:25,500 --> 00:00:28,500
+I'd like to ask you a couple of questions.
+
+5
+00:00:28,500 --> 00:00:34,500
+When I get on the cart and turn on the nozzle, what do you think is going to happen?
+
+6
+00:00:34,500 --> 00:00:41,500
+I think that you will be propelled forward and possibly start decreasing in speed.
+
+7
+00:00:41,500 --> 00:00:48,500
+I basically agree with all that. I think it's going to shoot in the opposite direction of the gas and then slow it down.
+
+8
+00:00:48,500 --> 00:00:52,500
+Well, we're going to try the experiment and actually see what happens.
+
+9
+00:00:52,500 --> 00:00:54,500
+Are we ready? 
+Yeah!
+
+10
+00:01:06,000 --> 00:01:07,500
+What did you observe?
+
+11
+00:01:07,500 --> 00:01:12,500
+It's kinda the opposite of what we expected. It took a little time to like gain momentum and then it got slowly faster.
+
+12
+00:01:12,500 --> 00:01:14,500
+So, it was speeding up? 
+
+13
+00:01:14,500 --> 00:01:19,500
+Yes. So if she has not caught you with the rope you would have kept speeding up and going faster.
+
+14
+00:01:19,500 --> 00:01:25,500
+Really? So that's not what you thought initially. Maybe we are learning some physics. 
+
+15
+00:01:25,500 --> 00:01:30,500
+It wasn't as dramatic as I thought it might be. I didn't move very fast.
+
+16
+00:01:30,500 -->  00:01:34,000
+So if we tried it again without me on, what do you think would happen?
+
+17
+00:01:34,000 --> 00:01:41,000
+I think it would be more of an immediate reaction.. Not immediate, but it wouldn't take as long to speed up.
+
+18
+00:01:41,000 --> 00:01:43,000
+And you think it would speed up the whole time? 
+
+19
+00:01:43,000 --> 00:01:47,000
+I think so until at least most of the pressure is released.
+
+20
+00:01:47,000 --> 00:01:50,500
+As long as there is a force acting.
+
+21
+00:01:50,500 --> 00:01:57,500
+OK, so we have another prediction. We'll try it one more time without a passenger and see if the results aren't a little more dramatic. 
+
+22
+00:02:05,000 --> 00:02:07,000
+What did you see?
+
+23
+00:02:07,000 --> 00:02:09,500
+It went significantly faster. 
+
+24
+00:02:09,500 --> 00:02:12,500
+Was it speeding up the whole time or did it go at a constant speed?
+
+25
+00:02:12,500 --> 00:02:15,500
+I believe it was speeding up until the rope stopped it. 
+
+26
+00:02:15,500 --> 00:02:21,500
+Sometimes it can be hard to tell if it's actually speeding up, so we might do a little bit of analysis
+
+27
+00:02:21,500 --> 00:02:24,500
+and actually try and measure to see if it's speeding up. 

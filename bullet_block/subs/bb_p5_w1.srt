@@ -1,0 +1,51 @@
+0
+00:00:00,000 --> 00:00:04,000
+So how do you like that video footage? 
+
+1
+00:00:04,000 --> 00:00:06,000
+Excellent! Pretty, good, eh? And what did you see with the heights?
+
+2
+00:00:06,000 --> 00:00:12,000
+They went to the same height! I know. The spinning one went to the same height as the one that was not spinning.
+
+3
+00:00:12,000 --> 00:00:16,000
+That's not what I expected. At all. I really thought the spinning one wouldn't go as high.
+
+4
+00:00:16,000 --> 00:00:20,000
+Me, too. But now in hindsight, you know, I think of conservation of momentum, 
+
+5
+00:00:20,000 --> 00:00:25,000
+and I think the bullet had the same amount of momentum upward in both cases... That's right.
+
+6
+00:00:25,000 --> 00:00:30,000
+So the bullet-block combo must have had the same upward momentum, so
+
+7
+00:00:30,000 --> 00:00:34,000
+of course they go to the same height. It's like, it's obvious, but I needed to see the experiment
+
+8
+00:00:34,000 --> 00:00:39,000
+to appreciate it. But you know what's bugging me, is when I saw them go to the same height
+
+9
+00:00:39,000 --> 00:00:46,000
+one block is spinning. So it seems to me the spinning block has more energy. 
+
+10
+00:00:46,000 --> 00:00:50,000
+You're right, it does have more energy! But it goes to the same height.
+
+11
+00:00:50,000 --> 00:00:54,000
+Maybe the bullet has a way of imparting more to one of the blocks. 
+
+12
+00:00:54,000 --> 00:00:58,000
+But how?

@@ -1,0 +1,43 @@
+0
+00:00:00,000 --> 00:00:07,000
+So, we've now seen that as long as there is this pushing force on this cart, it speeds up.
+
+1
+00:00:07,000 --> 00:00:11,000
+It actually gets faster and faster and faster as long as there is a pushing. 
+
+2
+00:00:11,000 --> 00:00:15,000
+This is what's actually known as Newton's Second Law, or at least it's a precursor to Newton's Second Law.
+
+3
+00:00:15,000 --> 00:00:22,000
+In order for us to really understand Newton's Second Law we'll have to go back to the lab
+
+4
+00:00:22,000 --> 00:00:25,000
+and do some more careful measurements.
+
+5
+00:00:25,000 --> 00:00:31,000
+OK, here we are in the lab where we can reproduce the rocket cart experiment in a much more controlled environment.
+
+6
+00:00:31,000 --> 00:00:39,000
+I have here a long track and a low-friction cart with a fan attached to it. 
+
+7
+00:00:39,000 --> 00:00:44,000
+Unlike the CO2 container which loses gas and therefore exerts a decreasing force,
+
+8
+00:00:44,000 --> 00:00:48,000
+the fan will exert a constant force on the cart. 
+
+9
+00:00:48,000 --> 00:00:52,000
+Let's see what happens in this constant-force situation.
+
+10
+00:00:53,000 --> 00:00:59,000
+Are you ready? Three, two, one...

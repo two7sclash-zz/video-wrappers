@@ -1,0 +1,16 @@
+0
+00:00:00,000 --> 00:00:05,250
+One of the atoms could keep an extra electron and end up negative...
+
+1
+00:00:05,250 --> 00:00:10,500
+...and then the other atom would've lost an electron and so it's positive. 
+
+2
+00:00:10,500 --> 00:00:17,000
+Or the atom that lost the electron could get it back again and then both atoms would
+be neutral. 
+
+3
+00:00:17,500 --> 00:00:25,000
+Or maybe both could happen, depending on the atoms involved. But I'm not sure why. 

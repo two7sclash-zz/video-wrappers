@@ -1,0 +1,402 @@
+{
+  "title": "Circular Motion",
+  "description": "To navigate through the elements on each page, use TAB. There are two buttons at the bottom of each page. Previous button on the left, if available, leads to the previous page. Next button on the right, if available, leads to the next page. You can control the video player in the following ways: using spacebar, you can pause or resume the player. The left and right arrow keys rewind back and forward. The up and down arrow keys adjust the loudness.",
+  "pages": [
+    {
+      "layout": {
+        "template": "1-2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "url": "circularmotion.jpg",
+            "description": "Professor Catrina and Jessica are standing at a whiteboard. Professor Catrina is drawing a dashed circle."
+          },
+          "layout": {
+            "template": "image",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {},
+          "layout": {
+            "template": "login",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "url": "circularmotion1.jpg",
+            "description": "Professor Catrina and Jessica are sitting at a table. Behind them, on a whiteboard, there is a sketch of possible trajectories of a ball that just ran around a circle. "
+          },
+          "layout": {
+            "template": "image",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_cm_p_11_page1_1.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_cm_p_11_page1_1.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "page1_1.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "05_circular_motion_ada_page_2.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_cm_p_21_page2.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_cm_p_21_page2.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "page2.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "05_circular_motion_ada_page_3.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "url": "q1.jpg",
+            "description": "The drawing shows a trajectory of a ball, which goes horizontally to the right and then tunes counterclockwise, and goes in a circular direction. The ball is drawn at the point of transition from linear to circular. Three arrows are drawn pointing at the ball: a right arrow A, arrow B which goes from lower left to upper right, and upward arrow C."
+          },
+          "layout": {
+            "template": "image",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "exports_to": "PP_2_W3_question",
+            "question_answers": [
+              "A. Mainly along the path.",
+              "B. At some angle to the path, about halfway between along the path and perpendicular to the path.",
+              "C. Mainly perpendicular to the path, toward the center of the circle."
+            ],
+            "question_text": "How will he need to keep hitting the ball to make it go from a straight path to a circular path?",
+            "randomize": false
+          },
+          "layout": {
+            "template": "question",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_cm_p_31_page3.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_cm_p_31_page3.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "page3.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "05_circular_motion_ada_page_4.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": true,
+            "sources": [
+              {
+                "source": "ivv_cm_p_32_p32_page3sequence.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_cm_p_32_p32_page3sequence.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [],
+            "description": "Professor Jackson is hitting the ball with the baton on its side towards the center of the circle. The ball, which was moving along the line, starts moving in a circle."
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "imports_from": "PP_2_W3_question",
+            "answers": [
+              "When asked, \"How will he need to keep hitting the ball to make it go from a straight path to a circular path?\" you answered\nA. Mainly along the path.",
+              "When asked, \"How will he need to keep hitting the ball to make it go from a straight path to a circular path?\" you answered\nB. At some angle to the path, about halfway between along the path and perpendicular to the path.",
+              "When asked, \"How will he need to keep hitting the ball to make it go from a straight path to a circular path?\" you answered\nC. Mainly perpendicular to the path, toward the center of the circle."
+            ]
+          },
+          "layout": {
+            "template": "answer",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_cm_p_41_page4.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_cm_p_41_page4.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "page4.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "05_circular_motion_ada_page_5.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "url": "page4diagram.jpg",
+            "description": "The drawing shows a trajectory of a ball, which goes counterclockwise along the circle. The ball is drawn at the bottommost point of the circle. Three arrows are drawn away from the ball: arrow A goes along the same circular path, arrow B goes along a convex curve slightly below the circular path, arrow C goes horizontally to the right, and arrow D goes along a concave curve below the circular path."
+          },
+          "layout": {
+            "template": "image",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "exports_to": "PP_4_W3_question",
+            "question_answers": [
+              "A. It continues in its circular path.",
+              "B. The path stays curved but deviates from the circle.",
+              "C. It goes straight and abandons its curved course.",
+              "D. The path curves away from the circle.",
+              "E. It goes in some other direction."
+            ],
+            "question_text": "What will the ball do once he stops hitting it?",
+            "randomize": false
+          },
+          "layout": {
+            "template": "question",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_cm_p_51_page5a.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_cm_p_51_page5a.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "page5a.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "05_circular_motion_ada_page_6.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": true,
+            "sources": [
+              {
+                "source": "ivv_cm_p_52_p5a2_page5sequence.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_cm_p_52_p5a2_page5sequence.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [],
+            "description": "Professor Jackson is hitting the ball so that is goes along the circle. When he stops doing that, the ball starts going along a straight line."
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "imports_from": "PP_4_W3_question",
+            "answers": [
+              "When asked, \"What will the ball do once he stops hitting it?\" you answered\nA. It continues in its circular path.",
+              "When asked, \"What will the ball do once he stops hitting it?\" you answered\nB. The path stays curved but deviates from the circle.",
+              "When asked, \"What will the ball do once he stops hitting it?\" you answered\nC. It goes straight and abandons its curved course.",
+              "When asked, \"What will the ball do once he stops hitting it?\" you answered\nD. The path curves away from the circle.",
+              "When asked, \"What will the ball do once he stops hitting it?\" you answered\nE. It goes in some other direction."
+            ]
+          },
+          "layout": {
+            "template": "answer",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_cm_p_61_page5a_1.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_cm_p_61_page5a_1.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "page5a_1.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "05_circular_motion_ada_page_7.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {},
+          "layout": {
+            "template": "certificate",
+            "type": "widget"
+          }
+        }
+      ]
+    }
+  ]
+}

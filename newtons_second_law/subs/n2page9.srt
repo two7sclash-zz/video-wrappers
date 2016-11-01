@@ -1,0 +1,44 @@
+0
+00:00:00,000 --> 00:00:08,000
+Now, when I adjusted the lines, I saw that the acceleration was only half as large for the cart with twice the mass.
+
+1
+00:00:08,000 --> 00:00:13,000
+Another way of saying this is that the acceleration and the mass are inversely proportional to each other.
+
+2
+00:00:13,000 --> 00:00:17,000
+Or, that the mass times acceleration is constant. 
+
+3
+00:00:17,000 --> 00:00:21,000
+But we also know that the force is constant in these experiments.
+
+4
+00:00:21,000 --> 00:00:26,000
+Hmm... could it be that the force is equal to the mass times acceleration?
+
+5
+00:00:26,000 --> 00:00:29,000
+In fact, we can show that if the mass is held constant, 
+
+6
+00:00:29,000 --> 00:00:33,000
+doubling the force leads to twice the acceleration. 
+
+7
+00:00:33,000 --> 00:00:35,000
+If we put this all together, we come up with the statement that 
+
+8
+00:00:35,000 --> 00:00:40,000
+the net force is proportional to mass times acceleration.
+
+9
+00:00:40,000 --> 00:00:45,000
+Using appropriate units, we can then say that the net force is equal to mass times acceleration,
+
+10
+00:00:45,000 --> 00:00:49,000
+which is commonly referred to as Newton's Second Law. 
+

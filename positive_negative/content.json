@@ -1,0 +1,248 @@
+{
+  "title": "Positive and Negative Charge",
+  "description": "To navigate through the elements on each page, use TAB. There are two buttons at the bottom of each page. Previous button on the left, if available, leads to the previous page. Next button on the right, if available, leads to the next page. You can control the video player in the following ways: using spacebar, you can pause or resume the player. The left and right arrow keys rewind back and forward. The up and down arrow keys adjust the loudness.",
+  "pages": [
+    {
+      "layout": {
+        "template": "1-2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "url": "es2_computer.jpg",
+            "description": "There is a table in a classroom near the wall. Robert, Sydney and the professor are sitting at the table and looking at PC screen. On the PC screen, there is a full-screen mode window of a program. In the window, there is a coordinate net of five horizontal lines and four vertical lines. The lines are evenly distributed on the screen. Also, there is a curve, which is going up from the middle of the screen to the top. Robert points to the curve with his forefinger."
+          },
+          "layout": {
+            "template": "image",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {},
+          "layout": {
+            "template": "login",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "url": "es2_computer_1.jpg",
+            "description": "Leah, Sydney, the professor and Robert are sitting at the table in the classroom. On the table, there are PC keyboard, three rolls of scotch tape, aluminum foil, glass support with plastic glass on the top, small black box with two black wires connected to both sides of the box, some other black wires. The professor is going to touch a wire at the middle of the table. Leah, Robert and Sydney are looking at the professor and what he is going to do."
+          },
+          "layout": {
+            "template": "image",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_pn_page_11_es2_p1.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_pn_page_11_es2_p1.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "es2_p1.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "02_positive_negative_2_ada_page_2.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_pn_page_21_es2_p2.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_pn_page_21_es2_p2.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "es2_p2.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "02_positive_negative_2_ada_page_3.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "content": "Please make a prediction. Your answer will not be graded."
+          },
+          "layout": {
+            "template": "text",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "exports_to": "PPage_2_W3_question",
+            "question_text": "What happens when we break the bond between two atoms in a molecule?",
+            "question_answers": [
+              "One atom is negative because it keeps an electron from the other atom, so the other atom is positive.",
+              "Both atoms are neutral.",
+              "Either of the above can happen, depending on the atoms involved."
+            ],
+            "randomize": false
+          },
+          "layout": {
+            "template": "question",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_pn_page_31_es2_p3.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_pn_page_31_es2_p3.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "es2_p3.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "02_positive_negative_2_ada_page_4.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "content": "Does your answer agree with what we observe?"
+          },
+          "layout": {
+            "template": "text",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "imports_from": "PPage_2_W3_question",
+            "answers": [
+              "When asked, \"What will happen between the tapes when we bring them back together?\", you answered:\n\"One atom is negative because it keeps an electron from the other atom, so the other atom is positive.\"",
+              "When asked, \"What will happen between the tapes when we bring them back together?\", you answered:\n\"Both atoms are neutral.\"",
+              "When asked, \"What will happen between the tapes when we bring them back together?\", you answered:\n\"Either of the above can happen, depending on the atoms involved.\""
+            ]
+          },
+          "layout": {
+            "template": "answer",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_pn_page_41_es2_p4.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_pn_page_41_es2_p4.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "es2_p4.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "02_positive_negative_2_ada_page_5.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {},
+          "layout": {
+            "template": "certificate",
+            "type": "widget"
+          }
+        }
+      ]
+    }
+  ]
+}

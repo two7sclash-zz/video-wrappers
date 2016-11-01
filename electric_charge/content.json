@@ -1,0 +1,252 @@
+{
+  "title": "Electric Charge",
+  "description": "To navigate through the elements on each page, use TAB. There are two buttons at the bottom of each page. Previous button on the left, if available, leads to the previous page. Next button on the right, if available, leads to the next page. You can control the video player in the following ways: using spacebar, you can pause or resume the player. The left and right arrow keys rewind back and forward. The up and down arrow keys adjust the loudness.",
+  "pages": [
+    {
+      "layout": {
+        "template": "1-2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "url": "es_1_hair.jpg",
+            "description": "There is a face of a nice looking girl named Leah with her long hair stuck up on end."
+          },
+          "layout": {
+            "template": "image",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {},
+          "layout": {
+            "template": "login",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "url": "es_1_hair_1.jpg",
+            "description": "There are three students Leah, Robert and Sydney. They are sitting in a classroom at the table. Leah is sitting between Robert and Sydney. She holds a roll of scotch tape in her hands. Robert and Sydney are just looking at what she is going to do."
+          },
+          "layout": {
+            "template": "image",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_ec_page_11_es1_p1.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_ec_page_11_es1_p1.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "es1_p1.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "01_electric_charge_1_ada_page_2.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_ec_page_21_es1_p2.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_ec_page_21_es1_p2.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "es1_p2.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "01_electric_charge_1_ada_page_3.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "content": "Please make a prediction. Your answer will not be graded."
+          },
+          "layout": {
+            "template": "text",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "exports_to": "PPage_2_W3_question",
+            "is_branched": true,
+            "is_multi_select": false,
+            "question_answers": [
+              "None of the tapes are charged so none of them attract or repel.",
+              "They are all charged, and they all repel each other.",
+              "They are charged differently. Some pairs repel and others attract.",
+              "Only the pointy tapes are charged, so they repel each other. The square tapes are not charged and don\u0027t attract or repel."
+            ],
+            "question_text": "What will happen between the tapes when we bring them back together?",
+            "randomize": false
+          },
+          "layout": {
+            "template": "question",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_ec_page_31_es1_p3.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_ec_page_31_es1_p3.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "es1_p3.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "01_electric_charge_1_ada_page_4.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "content": "Does your answer agree with what we observe?"
+          },
+          "layout": {
+            "template": "text",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "imports_from": "PPage_2_W3_question",
+            "answers": [
+              "When asked, \"What will happen between the tapes when we bring them back together?\", you answered:\n\"None of the tapes are charged so none of them attract or repel.\"",
+              "When asked, \"What will happen between the tapes when we bring them back together?\", you answered:\n\"They are all charged, and they all repel each other.\"",
+              "When asked, \"What will happen between the tapes when we bring them back together?\", you answered:\n\"They are charged differently. Some pairs repel and others attract.\"",
+              "When asked, \"What will happen between the tapes when we bring them back together?\", you answered:\n\"Only the pointy tapes are charged, so they repel each other. The square tapes are not charged and don\u0027t attract or repel.\""
+            ]
+          },
+          "layout": {
+            "template": "answer",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_ec_page_41_es1_p4.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_ec_page_41_es1_p4.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "es1_p4.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "01_electric_charge_1_ada_page_5.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {},
+          "layout": {
+            "template": "certificate",
+            "type": "widget"
+          }
+        }
+      ]
+    }
+  ]
+}

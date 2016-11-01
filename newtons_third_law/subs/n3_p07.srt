@@ -1,0 +1,102 @@
+1
+00:00:00,000 --> 00:00:03,180
+So what we're seeing here is, that,
+
+2
+00:00:03,180 --> 00:00:07,333
+when objects collide, even if they have different masses and velocities,
+
+3
+00:00:07,333 --> 00:00:11,940
+The forces that they exert on each other during the collision are the same.
+
+4
+00:00:11,940 --> 00:00:14,532
+Mmkay.
+And that's Newton's Third Law
+
+5
+00:00:14,532 --> 00:00:17,556
+I guess the force is equal but the resultant reaction is
+
+6
+00:00:17,556 --> 00:00:19,951
+greater from the lighter car.
+
+7
+00:00:19,951 --> 00:00:24,517
+Exactly, Newton's 3rd law says that the forces are equal and opposite.
+
+8
+00:00:24,517 --> 00:00:28,677
+So the force on the first car is the same size as the force on the second car.
+
+9
+00:00:28,677 --> 00:00:36,338
+But think about Newton's Second Law. It says the net force on a car is
+the mass of the car times the acceleration of the car.
+
+10
+00:00:36,338 --> 00:00:41,386
+Putting the two laws together, means that the mass times acceleration of the first car
+
+11
+00:00:41,386 --> 00:00:45,130
+is just as large as the mass times acceleration of the second car.
+
+12
+00:00:45,130 --> 00:00:51,547
+If both masses are the same, the accelerations are the same, and both drivers feel the same thing.
+
+13
+00:00:51,547 --> 00:00:55,592
+But if car number 2 has a smaller mass,
+
+14
+00:00:55,592 --> 00:00:59,169
+then the acceleration must be bigger to keep the equation balanced.
+
+15
+00:00:59,169 --> 00:01:03,944
+That's why, the driver of the smaller car is affected more by the collision.
+
+16
+00:01:03,944 --> 00:01:09,200
+Even though the forces on the cars are the same, his motion changes more.
+
+17
+00:01:09,200 --> 00:01:12,593
+Take a look at the video of the cars with drivers.
+
+18
+00:01:12,593 --> 00:01:17,687
+The forces on each car are the same but the lighter car's motion changes more
+
+19
+00:01:17,687 --> 00:01:19,463
+and the driver lands on his face.
+
+20
+00:01:19,463 --> 00:01:23,309
+Now newer cars have lots of safety features
+
+21
+00:01:23,309 --> 00:01:25,771
+So the heaviest car may not be the safest.
+
+22
+00:01:25,771 --> 00:01:29,661
+But doe's it make sense that the same force can cause different changes in motion?
+
+23
+00:01:29,661 --> 00:01:30,853
+Yea that makes sense
+
+24
+00:01:30,853 --> 00:01:32,036
+Yea it does.
+
+25
+00:01:32,036 --> 00:01:36,558
+It makes total sense. I'm surprised, but it makes total sense.
+

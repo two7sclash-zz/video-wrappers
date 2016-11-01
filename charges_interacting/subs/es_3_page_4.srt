@@ -1,0 +1,157 @@
+0
+00:00:00,000 --> 00:00:05,500
+So I guess the balloon didn't lose any charge to the wall after all. 
+
+1
+00:00:05,500 --> 00:00:13,500
+Okay. So then, that must mean that we didn't really transfer any negative charge at all.
+
+2
+00:00:13,500 --> 00:00:21,000
+Yeah, that seems likely. Okay. So now let's see what happens when we put them together. 
+
+3
+00:00:22,000 --> 00:00:26,000
+Slide it back in. Watch that tinsel. 
+
+4
+00:00:28,000 --> 00:00:35,000
+Well, the tinsel reached across and it's hanging down now, so...
+
+5
+00:00:35,000 --> 00:00:39,500
+...I guess that means the charge was lost. 
+Sidney: Or...
+
+6
+00:00:39,500 --> 00:00:45,000
+Or that means that the charge just went back to where it was. 
+Professor: Okay.
+
+7
+00:00:45,000 --> 00:00:51,000
+So what would happen if we were to actually let the balloon touch the wall?
+
+8
+00:00:51,000 --> 00:00:58,500
+Professor: Okay, well let's find out. We'll do that, but this time with a little twist.
+
+9
+00:00:58,500 --> 00:01:06,000
+We're going to actually split the walls just a little bit apart. So then we can try to 
+use the tinsel to see what's going on. 
+
+10
+00:01:06,000 --> 00:01:08,000
+Okay. 
+
+11
+00:01:12,000 --> 00:01:15,000
+Okay, I'm bringing the balloon in.
+
+12
+00:01:15,000 --> 00:01:19,000
+Robert: Oh, the tinsel touching it across the gap. 
+
+13
+00:01:19,000 --> 00:01:24,000
+The balloon is stuck to the wall. 
+Professor: Okay, separate the wall. 
+
+14
+00:01:32,000 --> 00:01:39,000
+Sidney: It seems the tape is telling us again that the back plate is negative.
+
+15
+00:01:39,000 --> 00:01:45,000
+Okay, I'm going to take the balloon away. 
+Robert: Alright, and it looks like...
+
+16
+00:01:45,000 --> 00:01:50,000
+...like the front plate is still positive. 
+Professor: Okay.
+
+17
+00:01:52,000 --> 00:01:58,000
+So I guess that since it's positive, the balloon didn't lose any of its charge at all. 
+
+18
+00:01:59,000 --> 00:02:07,000
+Professor: Very good.
+Sidney: The negative charge is pushed back to the back plate leaving positive charge in 
+the front plate. 
+
+19
+00:02:07,000 --> 00:02:11,000
+Professor: Mhm
+Leah: But how do you know that's the charge that moves?
+
+20
+00:02:11,000 --> 00:02:18,000
+Professor: Good question. It turns out we have to refer to the atomic model here. 
+
+21
+00:02:18,000 --> 00:02:25,000
+We can tell from our tapes what sign of charge we got, but we can't tell which charge 
+moves.
+
+22
+00:02:25,000 --> 00:02:31,000
+What do you know about atoms that would tell you about which kinds of charges move in
+metals?
+
+23
+00:02:31,000 --> 00:02:41,000
+Atoms have the electrons on the outside, so the electrons can move around like in wires
+and such.
+
+24
+00:02:41,000 --> 00:02:50,000
+That's the key point. We can tell the net charge of things, but we can't tell which way 
+they move from our tapes alone. 
+
+25
+00:02:50,000 --> 00:02:54,000
+Professor: So what must be going on the attract the balloon?
+
+26
+00:02:54,000 --> 00:03:03,000
+Sidney: Well.
+Leah: The balloon is negative, so the positive charges in the front plate would be 
+attracting it. 
+
+27
+00:03:03,000 --> 00:03:07,500
+Aren't the negative charges in the back also going to repel it? 
+
+28
+00:03:07,500 --> 00:03:17,000
+I mean, since the wall was neutral to start with, shouldn't there be the same amount of 
+positive charge on one as negative charge on the other?
+
+29
+00:03:17,000 --> 00:03:22,000
+So won't you have the same amount of attraction as you do repulsion? 
+
+30
+00:03:22,000 --> 00:03:33,000
+What could be different about the positive charge on the front plate and the negative 
+charge on the back plate that would make a difference on the effect on the balloon?
+
+31
+00:03:33,000 --> 00:03:37,000
+Wait, the distance. 
+Robert: The distance?
+
+32
+00:03:37,000 --> 00:03:42,500
+Oh! I get it. Because the negative charges here are further away,...
+
+33
+00:03:42,500 --> 00:03:47,000
+...the repulsive force is less strong than the attractive force. 
+
+34
+00:03:47,500 --> 00:03:49,000
+Bingo.

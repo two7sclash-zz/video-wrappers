@@ -1,0 +1,11 @@
+0
+00:00:00,000 --> 00:00:03,500
+OK, now let's analyze the vertical motion.
+
+1
+00:00:03,500 --> 00:00:08,000
+Clicking on the ball will mark the vertical position of the ball.
+
+2
+00:00:08,000 --> 00:00:13,000
+Again, the spacing between the lines will tell you something about its motion.

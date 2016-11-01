@@ -1,0 +1,7 @@
+0
+00:00:00,000 --> 00:00:07,000
+This time when I clicked on the ball, I saw that the distance between the lines first decreased and then increased.
+
+1
+00:00:07,000 --> 00:00:14,000
+This tells me that the ball was actually slowing down on the way up and then speeding up as it came back down.

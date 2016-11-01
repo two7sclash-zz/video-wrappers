@@ -1,0 +1,68 @@
+0
+00:00:00,000 --> 00:00:06,500
+So, what I have here was we had a bowling ball that was rolling in a straight line...
+
+1
+00:00:06,500 --> 00:00:16,000
+...and the question I want you to think about is what does Professor Jackson need to do
+with a baton in order to get that bowling ball to move in a circle?
+
+2
+00:00:20,000 --> 00:00:25,000
+Okay, so this is our circular path and this is the bowling ball.
+
+3
+00:00:25,000 --> 00:00:33,000
+In what way do you think Professor Jackson needs to hit that bowling ball in order to
+make it follow that circular path?
+
+4
+00:00:33,000 --> 00:00:40,000
+Jessica: Hm, maybe hit it on its side?
+Professor: Okay, can you come up and show me what you mean by that?
+Jessica: Yeah, sure.
+
+5
+00:00:40,000 --> 00:00:47,000
+Jessica: So, since its already moving and we want it to keep moving, just maybe hit it in
+the direction of motion.
+
+6
+00:00:47,000 --> 00:00:52,000
+Professor: So, you mean like this. In that direction.
+Jessica: Right.
+
+7
+00:00:52,000 --> 00:00:59,000
+Professor: Well let's label that "A." Can you think of any other ways that you might
+want to hit the ball?
+
+8
+00:00:59,000 --> 00:01:04,000
+Jessica: Maybe at an angle since we do want the path to curve.
+
+9
+00:01:04,000 --> 00:01:09,000
+Professor: Okay, so sort of in this direction. Like that?
+Jessica: Mhm
+
+10
+00:01:09,000 --> 00:01:15,000
+Professor: That's what you mean? Okay, let's call that "B" then. Any other ideas?
+
+11
+00:01:15,000 --> 00:01:22,000
+We could always hit it perpendicular to its direction of motion.
+Professor: So radially inward?
+Jessica: Right, yeah.
+
+12
+00:01:22,000 --> 00:01:28,000
+Professor: So, this direction. Like that.
+Jessica: Mhm
+
+13
+00:01:28,000 --> 00:01:31,000
+Professor: Okay, well let's find out what happens.'
+Jessica: Okay.
+

@@ -1,0 +1,215 @@
+0
+00:00:07,500 --> 00:00:11,750
+Oh, hi guys. You still working on electrostatics? How's it going?
+
+1
+00:00:11,750 --> 00:00:18,000
+It's going alright. We managed to figure a few things out with the tape experiment 
+yesterday. 
+
+2
+00:00:18,000 --> 00:00:24,500
+How the two materials in contact is what tranfers charge in between them.
+Professor: Mhm
+
+3
+00:00:24,500 --> 00:00:34,000
+Yeah, so the rubbing works not because of the heat, but because of increase in contacts
+between the atoms on each surface. 
+
+4
+00:00:34,000 --> 00:00:41,000
+So, in that case, you have one surface transferring charge from it to the other surface.
+
+5
+00:00:41,000 --> 00:00:45,000
+So, then they would be attracted to each other. 
+
+6
+00:00:45,000 --> 00:00:54,000
+And the repulsion happens when you have two surfaces that either have too many or too few
+electrons right next to each other. 
+
+7
+00:00:54,000 --> 00:01:01,500
+Professor: Mhm
+Robert: But they have to be close because when they're further apart, the force is weaker.
+
+8
+00:01:01,500 --> 00:01:06,000
+Professor: Very good. Good summary. 
+Leah: But there is one thing we're not sure about. 
+
+9
+00:01:06,000 --> 00:01:15,000
+When we were playing around with the tape and the plates, our charged objects were 
+attracting uncharged things. 
+
+10
+00:01:15,000 --> 00:01:20,000
+So, we don't know what made those things attracted to our objects. 
+
+11
+00:01:20,000 --> 00:01:23,000
+Professor: Mhm. Can you give me a good example? 
+
+12
+00:01:23,000 --> 00:01:30,000
+Sidney: Uh, yeah. When I was a kid, my dad would charge up balloons for birthdays.
+
+13
+00:01:30,000 --> 00:01:36,500
+He'd rub them on his sweater and then stick them onto walls and refrigerators. Basically 
+anywhere.
+Professor: Mhm
+
+14
+00:01:36,500 --> 00:01:42,000
+Sidney: And that was cool, but now that I think about it, the balloons were charged. 
+
+15
+00:01:42,000 --> 00:01:46,000
+But he didn't do anything to the refrigerator or the walls. 
+
+16
+00:01:46,000 --> 00:01:51,000
+So I wonder, how, without doing anything to them, were they able to stick?
+
+17
+00:01:51,000 --> 00:01:55,000
+How did he get those things charged? 
+
+18
+00:01:55,000 --> 00:01:58,000
+Professor: Mhm. Any ideas?
+
+19
+00:01:58,000 --> 00:02:07,000
+Robert: Well, maybe the balloon has charge  and then when he puts it to the wall, some
+of the charge goes from the balloon to the wall
+
+20
+00:02:07,000 --> 00:02:13,000
+And then balloon attracted to that charge? Seems a bit confusing though.
+
+21
+00:02:13,000 --> 00:02:22,000
+Leah: But the fridge, it's made out of metal, so it's a conductor, so wouldn't it just 
+conduct all the extra charge away? It shouldn't attract anything. 
+
+22
+00:02:23,000 --> 00:02:28,000
+Professor: Okay, I think we can figure this out. 
+
+23
+00:02:28,000 --> 00:02:37,000
+We think about a refrigerator, it's basically a conductor, but it's a metal shell around
+some thermal insulation. 
+
+24
+00:02:37,000 --> 00:02:44,000
+And so we can make a model of that and we can use that to do a little exploration. Let
+me get some stuff here. 
+
+25
+00:02:44,000 --> 00:02:52,500
+I've got some chunks of foam over here and we've got some aluminum foil.
+
+26
+00:02:55,500 --> 00:03:03,000
+We can wrap the foil around the foam blocks and see if we can use that to make a model 
+of the door.
+
+27
+00:03:03,000 --> 00:03:10,000
+Let's see. If you stick the middle of the foil kind of at the top of the foam and we'll
+just fold it over like that. 
+
+28
+00:03:12,000 --> 00:03:21,000
+And tuck it in like you're wrapping a package or something and wrap it around so the
+foil holds on nicely. 
+
+29
+00:03:26,000 --> 00:03:32,000
+Okay, so this is like a refrigerator case and the door. 
+
+30
+00:03:32,000 --> 00:03:42,000
+So we got that chunk of stuff there and we need some way to see what's happening in terms 
+of charge.
+
+31
+00:03:42,000 --> 00:03:48,000
+We can use the tapes, but we got some of this tinsel somewhere around. There we go.
+
+32
+00:03:48,000 --> 00:03:55,000
+So we're going to put some pieces of tinsel on the top. So the tinsel, while it gets 
+charged,... 
+
+33
+00:03:55,000 --> 00:04:03,000
+...this is conductive tinsel, that'll conduct charges to the tinsel and the tinsel will
+spread apart and repel itself. 
+
+34
+00:04:03,000 --> 00:04:09,000
+Kind of like your hair, if you get it all charged up. Doesn't lie down nicely
+
+35
+00:04:09,000 --> 00:04:15,000
+Okay so we're going to put all this tinsel around here. 
+
+36
+00:04:18,000 --> 00:04:29,000
+So then what I'm going to do is charge up the balloon and I guess we need to know what
+the sign of the charge of the balloon is. Would probably be useful to know.
+
+37
+00:04:29,000 --> 00:04:38,000
+Why don't you all make some pieces of tape, square and pointy tape. And I will charge the 
+balloon and we'll see what happens.
+
+38
+00:04:50,000 --> 00:04:57,000
+Got my balloon charged up. Okay. You got the pointy and square tapes. 
+
+39
+00:05:02,500 --> 00:05:11,000
+Sidney: It seems as if pointy is attracted to the balloon. The square was the negative 
+and the pointy was positive. 
+
+40
+00:05:11,000 --> 00:05:16,500
+Professor: So, what should pointy do? 
+Sidney: Pointy should attract and there we go. 
+
+41
+00:05:16,500 --> 00:05:21,000
+Professor: Okay, so what's the sign of the charge of the balloon?
+Sidney: The balloon must be negative. 
+
+42
+00:05:21,000 --> 00:05:28,000
+Professor: Okay. So, now we know what the balloon is and so what we're going to do, here's
+what I'll to do. 
+
+43
+00:05:28,000 --> 00:05:35,000
+To make sure we're not transferring charge, I'm only going to bring the balloon near the 
+foil. 
+
+44
+00:05:35,000 --> 00:05:42,000
+Okay? And then we're going to hold the balloon there and separate the second piece, the
+cabinet from the door, so to speak. 
+
+45
+00:05:42,000 --> 00:05:56,000
+Okay, and then I'll take the balloon away. And so my question to you is, "What effect
+will this have on the charges in the two pieces of the door there?"
+
+46
+00:05:56,500 --> 00:06:01,000
+Will they be charged? And if so, what charge will they have?

@@ -1,0 +1,58 @@
+.analysis-container {
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+.analysis-container:focus {
+  outline: 1px dashed rgb(46, 156, 212);
+  outline-offset: 1px;
+  background: rgb(255, 255, 255);
+}
+
+.analysis-container .current-time {
+  color: #F2981D;
+  font-size: 18px;
+  padding: 2px 5px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 4;
+}
+
+.canvas {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  cursor: crosshair;
+}
+
+.error-message, .instruction-message {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 60%;
+  color: #9addff;
+  font-size: 12px;
+  margin: -12px -30% 0 -30%;
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+.error-message {
+  pointer-events: none;
+}
+
+.hidden {
+  width: 0;
+  height: 0;
+  position: absolute;
+  opacity: 0;
+  top: -200px;
+  left: -100px;
+  overflow: hidden;
+}

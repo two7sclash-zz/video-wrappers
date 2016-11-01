@@ -1,0 +1,454 @@
+{
+  "title": "Newton's Third Law",
+  "description": "To navigate through the elements on each page, use TAB. There are two buttons at the bottom of each page. Previous button on the left, if available, leads to the previous page. Next button on the right, if available, leads to the next page. You can control the video player in the following ways: using spacebar, you can pause or resume the player. The left and right arrow keys rewind back and forward. The up and down arrow keys adjust the loudness.",
+  "pages": [
+    {
+      "layout": {
+        "template": "1-2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "url": "intro.jpg",
+            "description": "The described animation of the carts collision with the measuring on."
+          },
+          "layout": {
+            "template": "image",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {},
+          "layout": {
+            "template": "login",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "url": "intro1.jpg",
+            "description": "The interviewer with the tablet in her hands and a young man giving his opinion on the video."
+          },
+          "layout": {
+            "template": "image",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_ntl_p11.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_ntl_p11.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "n3_p01.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "page2transcript.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_ntl_p21.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_ntl_p21.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "n3_p02.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "page3transcript.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "autoplay": true,
+            "muted": true,
+            "loop": true,
+            "sources": [
+              {
+                "source": "ivv_ntl_p22.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_ntl_p22.webm",
+                "type": "video/webm"
+              }
+            ],
+            "description": "Another video fragment is placed on the right, showing the described video of a car crash. It is a frontal collision, when the bigger car is moving faster from the left, and the smaller car is going slower from the right. When they collide, the bigger car pushes the smaller car backwards a little, and then the cars stop moving."
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "question_text": "Question 1: Which car exerts a larger force on the other car during the collision?",
+            "question_answers": [
+              "The heavier, faster car exerts a larger force on the small car.",
+              "The forces exerted by both cars are equal.",
+              "The lighter, slower car exerts a larger force on the large car."
+            ],
+            "exports_to": "question_1"
+          },
+          "layout": {
+            "type": "widget",
+            "template": "question"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_ntl_p31.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_ntl_p31.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "n3_p03.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "page4transcript.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_ntl_p41.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_ntl_p41.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "n3_p04.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "page5transcript.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "autoplay": true,
+            "muted": true,
+            "loop": true,
+            "sources": [
+              {
+                "source": "ivv_ntl_p42.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_ntl_p42.webm",
+                "type": "video/webm"
+              }
+            ],
+            "description": "Another video fragment is placed on the right, showing the described animation of the carts collision with the measuring on. The two carts are moving towards each other. The left cart is almost twice the size of the right cart, and it's going faster. When the carts collide in the center of the screen, the lighter cart moves backwards really quickly right after the collision, and the heavier cart continues its way forward, but with the smaller speed. The graph in the background shows the two equals bumps, the upwards one and the downwards one."
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "imports_from": "question_1",
+            "answers": [
+              "When asked, \"Which car exerts a larger force on the other car during the collision?\" you answered:\nThe heavier, faster car exerts a larger force on the small car.",
+              "When asked, \"Which car exerts a larger force on the other car during the collision?\" you answered:\nThe forces exerted by both cars are equal.",
+              "When asked, \"Which car exerts a larger force on the other car during the collision?\" you answered:\nThe lighter, slower car exerts a larger force on the large car."
+            ]
+          },
+          "layout": {
+            "type": "widget",
+            "template": "answer"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_ntl_p51.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_ntl_p51.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "n3_p05.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "page6transcript.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "autoplay": true,
+            "muted": true,
+            "loop": true,
+            "sources": [
+              {
+                "source": "ivv_ntl_p52.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_ntl_p52.webm",
+                "type": "video/webm"
+              }
+            ],
+            "description": "Another video fragment is placed on the right, showing the described animation of the carts collision with the measuring on. The two carts are moving towards each other. The left cart is almost twice the size of the right cart, and it's going faster. When the carts collide in the center of the screen, the lighter cart moves backwards really quickly right after the collision, and the heavier cart continues its way forward, but with the smaller speed. The graph in the background shows the two equals bumps, the upwards one and the downwards one."
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "question_text": "Question 2: Which car would you rather be driving?",
+            "question_answers": [
+              "The heavier, faster car.",
+              "Either one. It doesn't matter.",
+              "The lighter, slower car."
+            ],
+            "exports_to": "question_2"
+          },
+          "layout": {
+            "type": "widget",
+            "template": "question"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_ntl_p61.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_ntl_p61.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "n3_p06.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "page7transcript.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "autoplay": true,
+            "muted": true,
+            "loop": true,
+            "sources": [
+              {
+                "source": "ivv_ntl_p62.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_ntl_p62.webm",
+                "type": "video/webm"
+              }
+            ],
+            "description": "Another video fragment is placed on the right, showing the described animation of the carts collision with the drivers included."
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "imports_from": "question_2",
+            "answers": [
+              "When asked, \"Which car would you rather be driving?\" you answered:\nThe heavier, faster car.",
+              "When asked, \"Which car would you rather be driving?\" you answered:\nEither one. It doesn't matter.",
+              "When asked, \"Which car would you rather be driving?\" you answered:\nThe lighter, slower car."
+            ]
+          },
+          "layout": {
+            "type": "widget",
+            "template": "answer"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_ntl_p71.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_ntl_p71.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "n3_p07.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "page8transcript.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {},
+          "layout": {
+            "template": "certificate",
+            "type": "widget"
+          }
+        }
+      ]
+    }
+  ]
+}

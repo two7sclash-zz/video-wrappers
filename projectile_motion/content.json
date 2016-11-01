@@ -1,0 +1,798 @@
+{
+  "title": "Projectile Motion",
+  "description": "To navigate through the elements on each page, use TAB. There are two buttons at the bottom of each page. Previous button on the left, if available, leads to the previous page. Next button on the right, if available, leads to the next page. You can control the video player in the following ways: using spacebar, you can pause or resume the player. The left and right arrow keys rewind back and forward. The up and down arrow keys adjust the loudness.",
+  "pages": [
+    {
+      "layout": {
+        "template": "1-2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "url": "intro.jpg",
+            "description": "David in the red T-shirt staying in the school gym with the tennis ball in his hand."
+          },
+          "layout": {
+            "template": "image",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {},
+          "layout": {
+            "template": "login",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "url": "intro1.jpg",
+            "description": "David turns to the right and trows the ball into the basket fixed at the 4 feet level."
+          },
+          "layout": {
+            "template": "image",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_pm_p11.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_pm_p11.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "video_p1.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "page2transcript.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-2",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_pm_p21.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_pm_p21.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "video_p2.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "page3transcript.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "description": "Another video fragment is placed on the right, showing David throwing the ball into the basket. The trajectory of the ball looks as a downward parabola.",
+            "frames": [
+              "1.jpg",
+              "2.jpg",
+              "3.jpg",
+              "4.jpg",
+              "5.jpg",
+              "6.jpg",
+              "7.jpg",
+              "8.jpg",
+              "9.jpg",
+              "10.jpg",
+              "11.jpg",
+              "12.jpg",
+              "13.jpg",
+              "14.jpg",
+              "15.jpg",
+              "16.jpg",
+              "17.jpg",
+              "18.jpg",
+              "19.jpg",
+              "20.jpg",
+              "21.jpg",
+              "22.jpg",
+              "23.jpg",
+              "24.jpg"
+            ],
+            "step_time": 40
+          },
+          "layout": {
+            "type": "widget",
+            "template": "frame-player"
+          }
+        },
+        {
+          "data": {
+            "question_text": "Question 1: Does the horizontal speed of the ball change as it moves? <span style=\"font-weight: normal;font-size: 13px;\">(Use the arrow button to replay the video on the right.)</span>",
+            "question_answers": [
+              "Yes, it speeds up",
+              "No, it remains the same",
+              "Yes, it slows down",
+              "Yes, it slows down first, then speeds up"
+            ],
+            "exports_to": "hor_progress"
+          },
+          "layout": {
+            "template": "question",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "question_text": "Question 2: Does the vertical speed of the ball change as it moves?",
+            "question_answers": [
+              "Yes, it speeds up",
+              "No, it remains the same",
+              "Yes, it slows down",
+              "Yes, it slows down first, then speeds up"
+            ],
+            "exports_to": "ver_progress"
+          },
+          "layout": {
+            "template": "question",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_pm_p31.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_pm_p31.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "video_p3.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "page4transcript.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "frames": [
+              "1a.jpg",
+              "2a.jpg",
+              "3a.jpg",
+              "4a.jpg",
+              "5a.jpg",
+              "6a.jpg",
+              "7a.jpg",
+              "8a.jpg",
+              "9a.jpg",
+              "10a.jpg"
+            ],
+            "description": "An interactive video on the top right shows the first frame of the previously shown David throwing the ball into the basket. The first frame corresponds to the moment t equals 0 when Professor David just released the ball.",
+            "locations_descriptions": [
+              "After clicking on the ball the video goes on and stops at the frame corresponding to t equals 0.05 seconds. The solid vertical line appears highlighted over the picture, with a large point at the center of the ball. Keep clicking.",
+              "Next click runs the video until t equals 0.1 seconds. The solid vertical line appears highlighted over the picture, with a large point at the center of the ball.",
+              "New click plays the video until t equals 0.15 seconds.",
+              "The next stop is at the frame 0.2 seconds.",
+              "Then the video stops at 0.25 seconds frame.",
+              "Then the video stops at the frame t equals 0.3 seconds.",
+              "The next time frame is 0.35 seconds.",
+              "The next time frame is 0.4 seconds.",
+              "The next time frame is 0.45 seconds.",
+              "The last solid vertical line appears highlighted over the picture, with a large point at the center of the ball."
+            ],
+            "post_description": "There are ten vertical lines placed at equal distance from each other. The trajectory of the ball marked with the big points looks as a downward parabola.",
+            "instructions": "Click on the center of the ball in each frame of the video to mark its position.",
+            "step_time": 0.05,
+            "track_locations": [
+              {
+                "x": 130,
+                "y": 58,
+                "r": 6
+              },
+              {
+                "x": 143,
+                "y": 72,
+                "r": 6
+              },
+              {
+                "x": 157,
+                "y": 83,
+                "r": 6
+              },
+              {
+                "x": 171,
+                "y": 90,
+                "r": 6
+              },
+              {
+                "x": 184,
+                "y": 94,
+                "r": 6
+              },
+              {
+                "x": 197,
+                "y": 94,
+                "r": 6
+              },
+              {
+                "x": 211,
+                "y": 92,
+                "r": 6
+              },
+              {
+                "x": 224,
+                "y": 85,
+                "r": 6
+              },
+              {
+                "x": 238,
+                "y": 75,
+                "r": 6
+              },
+              {
+                "x": 252,
+                "y": 61,
+                "r": 6
+              }
+            ],
+            "time_color": "black",
+            "display_settings": {
+              "current_color": "#9addff"
+            },
+            "displays": "vertical",
+            "exports_to": "ball_vert"
+          },
+          "layout": {
+            "type": "widget",
+            "template": "x-y-analysis"
+          }
+        },
+        {
+          "data": {
+            "content": "Click on the center of the ball in each frame of the video to mark its position."
+          },
+          "layout": {
+            "template": "text",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_pm_p41.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_pm_p41.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "video_p4.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "page5transcript.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "frames": [
+              "1a.jpg",
+              "2a.jpg",
+              "3a.jpg",
+              "4a.jpg",
+              "5a.jpg",
+              "6a.jpg",
+              "7a.jpg",
+              "8a.jpg",
+              "9a.jpg",
+              "10a.jpg"
+            ],
+            "description": "An interactive video on the top right shows the first frame of the previously shown David throwing the ball into the basket. The first frame corresponds to the moment t equals 0 when Professor David just released the ball.",
+            "locations_descriptions": [
+              "After clicking on the ball the video goes on and stops at the frame corresponding to t equals 0.05 seconds. The solid vertical line appears highlighted over the picture, with a large point at the center of the ball. Keep clicking.",
+              "Next click runs the video until t equals 0.1 seconds. The solid vertical line appears highlighted over the picture, with a large point at the center of the ball.",
+              "New click plays the video until t equals 0.15 seconds.",
+              "The next stop is at the frame 0.2 seconds.",
+              "Then the video stops at 0.25 seconds frame.",
+              "Then the video stops at the frame t equals 0.3 seconds.",
+              "The next time frame is 0.35 seconds.",
+              "The next time frame is 0.4 seconds.",
+              "The next time frame is 0.45 seconds.",
+              "The last solid vertical line appears highlighted over the picture, with a large point at the center of the ball."
+            ],
+            "post_description": "There are ten vertical lines placed at equal distance from each other. The trajectory of the ball marked with the big points looks as a downward parabola.",
+            "step_time": 0.05,
+            "track_locations": [
+              {
+                "x": 130,
+                "y": 58,
+                "r": 6
+              },
+              {
+                "x": 143,
+                "y": 72,
+                "r": 6
+              },
+              {
+                "x": 157,
+                "y": 83,
+                "r": 6
+              },
+              {
+                "x": 171,
+                "y": 90,
+                "r": 6
+              },
+              {
+                "x": 184,
+                "y": 94,
+                "r": 6
+              },
+              {
+                "x": 197,
+                "y": 94,
+                "r": 6
+              },
+              {
+                "x": 211,
+                "y": 92,
+                "r": 6
+              },
+              {
+                "x": 224,
+                "y": 85,
+                "r": 6
+              },
+              {
+                "x": 238,
+                "y": 75,
+                "r": 6
+              },
+              {
+                "x": 252,
+                "y": 61,
+                "r": 6
+              }
+            ],
+            "time_color": "black",
+            "display_settings": {
+              "current_color": "#9addff"
+            },
+            "displays": "vertical",
+            "exports_to": "ball_vert"
+          },
+          "layout": {
+            "type": "widget",
+            "template": "x-y-analysis"
+          }
+        },
+        {
+          "data": {
+            "imports_from": "hor_progress",
+            "answers": [
+              "When asked whether the horizontal speed of the ball changes as it moves, you picked the answer, \"Yes, it speeds up.\"\nYou may want to take a closer look at the line spacing.",
+              "When asked whether the horizontal speed of the ball changes as it moves, you picked the answer, \"No, it remains the same.\"\nThis is correct.  Nice job!",
+              "When asked whether the horizontal speed of the ball changes as it moves, you picked the answer, \"Yes, it slows down.\"\nYou may want to take a closer look at the line spacing.",
+              "When asked whether the horizontal speed of the ball changes as it moves, you picked the answer, \"Yes, it slows down first, then speeds up.\"\nYou may want to take a closer look at the line spacing."
+            ]
+          },
+          "layout": {
+            "type": "widget",
+            "template": "answer"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_pm_p51.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_pm_p51.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "video_p5.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "page6transcript.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "frames": [
+              "1a.jpg",
+              "2a.jpg",
+              "3a.jpg",
+              "4a.jpg",
+              "5a.jpg",
+              "6a.jpg",
+              "7a.jpg",
+              "8a.jpg",
+              "9a.jpg",
+              "10a.jpg"
+            ],
+            "description": "An interactive video on the top right shows the first frame of the previously shown David throwing the ball into the basket. The first frame corresponds to the moment t equals 0 when Professor David just released the ball.",
+            "locations_descriptions": [
+              "After clicking on the ball the video goes on and stops at the frame corresponding to t equals 0.05 seconds. The short solid horizontal line appears highlighted over the picture. Keep clicking, with a large point at the center of the ball.",
+              "Next click runs the video until t equals 0.1 seconds. The short solid horizontal line appears highlighted over the picture, with a large point at the center of the ball.",
+              "New click plays the video until t equals 0.15 seconds.",
+              "The next stop is at the frame 0.2 seconds.",
+              "Then the video stops at 0.25 seconds frame.",
+              "Then the video stops at the frame t equals 0.3 seconds.",
+              "The next time frame is 0.35 seconds.",
+              "The next time frame is 0.4 seconds.",
+              "The next time frame is 0.45 seconds.",
+              "The last short solid line appears highlighted over the picture, with a large point at the center of the ball."
+            ],
+            "post_description": "When you're done clicking on the ball in each frame, there are ten short horizontal lines placed. The trajectory of the ball marked with the big points looks as a downward parabola. In the beginning, there are more space between the horizontal lines, then the spacing is getting smaller from the second frame where time equals 5 hundredths seconds to the sixth frame, where time equals thirty hundredths seconds. After the ball went through its highest position, the spacing between the horizontal lines starts increasing from the seventh to tenth frame.",
+            "instructions": "Click on the center of the ball in each frame of the video to mark its position.",
+            "step_time": 0.05,
+            "track_locations": [
+              {
+                "x": 130,
+                "y": 58,
+                "r": 6
+              },
+              {
+                "x": 143,
+                "y": 72,
+                "r": 6
+              },
+              {
+                "x": 157,
+                "y": 83,
+                "r": 6
+              },
+              {
+                "x": 171,
+                "y": 90,
+                "r": 6
+              },
+              {
+                "x": 184,
+                "y": 94,
+                "r": 6
+              },
+              {
+                "x": 197,
+                "y": 94,
+                "r": 6
+              },
+              {
+                "x": 211,
+                "y": 92,
+                "r": 6
+              },
+              {
+                "x": 224,
+                "y": 85,
+                "r": 6
+              },
+              {
+                "x": 238,
+                "y": 75,
+                "r": 6
+              },
+              {
+                "x": 252,
+                "y": 61,
+                "r": 6
+              }
+            ],
+            "time_color": "black",
+            "display_settings": {
+              "current_color": "#9addff"
+            },
+            "displays": "horizontal",
+            "exports_to": "ball_horiz"
+          },
+          "layout": {
+            "type": "widget",
+            "template": "x-y-analysis"
+          }
+        },
+        {
+          "data": {
+            "content": "Click on the center of the ball in each frame of the video to mark its position."
+          },
+          "layout": {
+            "template": "text",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_pm_p61.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_pm_p61.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "video_p6.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "page7transcript.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "frames": [
+              "1a.jpg",
+              "2a.jpg",
+              "3a.jpg",
+              "4a.jpg",
+              "5a.jpg",
+              "6a.jpg",
+              "7a.jpg",
+              "8a.jpg",
+              "9a.jpg",
+              "10a.jpg"
+            ],
+            "description": "An interactive video on the top right shows the first frame of the previously shown David throwing the ball into the basket. The first frame corresponds to the moment t equals 0 when Professor David just released the ball.",
+            "locations_descriptions": [
+              "After clicking on the ball the video goes on and stops at the frame corresponding to t equals 0.05 seconds. The short solid horizontal line appears highlighted over the picture. Keep clicking, with a large point at the center of the ball.",
+              "Next click runs the video until t equals 0.1 seconds. The short solid horizontal line appears highlighted over the picture, with a large point at the center of the ball.",
+              "New click plays the video until t equals 0.15 seconds.",
+              "The next stop is at the frame 0.2 seconds.",
+              "Then the video stops at 0.25 seconds frame.",
+              "Then the video stops at the frame t equals 0.3 seconds.",
+              "The next time frame is 0.35 seconds.",
+              "The next time frame is 0.4 seconds.",
+              "The next time frame is 0.45 seconds.",
+              "The last short solid line appears highlighted over the picture, with a large point at the center of the ball."
+            ],
+            "post_description": "When you're done clicking on the ball in each frame, there are ten short horizontal lines placed. The trajectory of the ball marked with the big points looks as a downward parabola. In the beginning, there are more space between the horizontal lines, then the spacing is getting smaller from the second frame where time equals 5 hundredths seconds to the sixth frame, where time equals thirty hundredths seconds. After the ball went through its highest position, the spacing between the horizontal lines starts increasing from the seventh to tenth frame.",
+            "step_time": 0.05,
+            "track_locations": [
+              {
+                "x": 130,
+                "y": 58,
+                "r": 6
+              },
+              {
+                "x": 143,
+                "y": 72,
+                "r": 6
+              },
+              {
+                "x": 157,
+                "y": 83,
+                "r": 6
+              },
+              {
+                "x": 171,
+                "y": 90,
+                "r": 6
+              },
+              {
+                "x": 184,
+                "y": 94,
+                "r": 6
+              },
+              {
+                "x": 197,
+                "y": 94,
+                "r": 6
+              },
+              {
+                "x": 211,
+                "y": 92,
+                "r": 6
+              },
+              {
+                "x": 224,
+                "y": 85,
+                "r": 6
+              },
+              {
+                "x": 238,
+                "y": 75,
+                "r": 6
+              },
+              {
+                "x": 252,
+                "y": 61,
+                "r": 6
+              }
+            ],
+            "time_color": "black",
+            "display_settings": {
+              "current_color": "#9addff"
+            },
+            "displays": "horizontal",
+            "exports_to": "ball_horiz"
+          },
+          "layout": {
+            "type": "widget",
+            "template": "x-y-analysis"
+          }
+        },
+        {
+          "data": {
+            "imports_from": "ver_progress",
+            "answers": [
+              "When asked whether the vertical speed of the ball changes as it moves, you picked the answer, \"Yes, it speeds up.\"\nThis is correct while the ball is falling but not while it is rising.You may want to take a closer look at the spacing of the lines while the ball is rising.",
+              "When asked whether the vertical speed of the ball changes as it moves, you picked the answer, \"No, it remains the same.\"\nYou may want to take a closer look at the line spacing.The lines are not equally spaced.",
+              "When asked whether the vertical speed of the ball changes as it moves, you picked the answer, \"Yes, it slows down.\"\nThis is correct while the ball is rising but not while it is falling.You may want to take a closer look at the spacing of the lines while the ball is falling.",
+              "When asked whether the vertical speed of the ball changes as it moves, you picked the answer, \"Yes, it slows down first, then speeds up.\"\nThis is correct. Nice job!"
+            ]
+          },
+          "layout": {
+            "type": "widget",
+            "template": "answer"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_pm_p71.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_pm_p71.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "video_p7.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "page8transcript.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {},
+          "layout": {
+            "template": "certificate",
+            "type": "widget"
+          }
+        }
+      ]
+    }
+  ]
+}

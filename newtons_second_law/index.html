@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+
+  <!-- Title will be inserted by sim -->
+  <title>&nbsp;</title>
+
+  <!-- Libraries -->
+  <script type="text/javascript" src="http://cdn.cengage.com./js/jquery/jquery-latest.min.js"></script>
+  <script type="text/javascript" src="http://cdn.cengage.com/js/jwplayer/latest/jwplayer.js"></script>
+
+  <script type="text/javascript" src="./src/libs/jquery.jqplot.min.js"></script>
+  <script type="text/javascript" src="./src/libs/jqplot.canvasaxislabelrenderer.min.js"></script>
+  <script type="text/javascript" src="./src/libs/jqplot.canvastextrenderer.min.js"></script>
+  <script type="text/javascript" src="./src/libs/jqplot.dragablemodel.js"></script>
+  <script type="text/javascript" src="./src/libs/class_list.js"></script>
+  <script type="text/javascript" src="./src/libs/lodash.min.js"></script>
+
+  <!-- Styles -->
+  <link href="./src/css/common.css" rel="stylesheet" type="text/css"/>
+  <link href="./src/libs/jquery.jqplot.min.css" rel="stylesheet" type="text/css"/>
+
+  <!-- Require -->
+  <script type="text/javascript" src="./src/libs/require.js"></script>
+
+  <script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function() {
+      // Common config
+      require(['./src/libs/require_config.js'], function() {
+        // Content JSON
+        require(['json!./content.json'], function(jsonData) {
+          // Main application
+          require(['main'], function(Application) {
+            new Application(jsonData);
+          });
+        });
+      });
+    }, false);
+  </script>
+</head>
+<body>
+</body>
+</html>

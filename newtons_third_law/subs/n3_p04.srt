@@ -1,0 +1,41 @@
+1
+00:00:00,000 --> 00:00:03,404
+There's not much of a difference. They're practically the same as the first one.
+
+2
+00:00:03,404 --> 00:00:05,711
+It looks like they're the same.
+
+3
+00:00:05,711 --> 00:00:07,711
+So it looks like the forces were equal?
+
+4
+00:00:07,711 --> 00:00:09,023
+Yea the forces were equal, yea.
+
+5
+00:00:09,023 --> 00:00:12,000
+The curves are identical.
+The curves are identical, so what does that tell us about the 
+
+6
+00:00:12,000 --> 00:00:14,567
+forces that they exert on each other?
+
+7
+00:00:14,567 --> 00:00:16,450
+That they exert the same force on each other.
+
+8
+00:00:16,450 --> 00:00:19,717
+So that says that the force of impact is equal on both sides.
+
+9
+00:00:19,717 --> 00:00:21,136
+no matter what the mass is,
+
+10
+00:00:21,136 --> 00:00:24,031
+I wouldn't have thought that.
+

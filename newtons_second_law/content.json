@@ -1,0 +1,1097 @@
+{
+  "title": "Newton's Second Law",
+  "description": "To navigate through the elements on each page, use TAB. There are two buttons at the bottom of each page. Previous button on the left, if available, leads to the previous page. Next button on the right, if available, leads to the next page. You can control the video player in the following ways: using spacebar, you can pause or resume the player. The left and right arrow keys rewind back and forward. The up and down arrow keys adjust the loudness.",
+  "pages": [
+    {
+      "layout": {
+        "template": "1-2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "url": "intro.jpg",
+            "description": "Professor David is speaking with two girls."
+          },
+          "layout": {
+            "template": "image",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {},
+          "layout": {
+            "template": "login",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "url": "intro1.jpg",
+            "description": "Professor David is riding a rocket cart and somebody is trying to stop him with a rope."
+          },
+          "layout": {
+            "template": "image",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_nsl_n2p11.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_nsl_n2p11.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "n2page1.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "09_newton_s_second_law_ada_page_2.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_nsl_n2p21.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_nsl_n2p21.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "n2page2.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "09_newton_s_second_law_ada_page_3.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "autoplay": true,
+            "muted": true,
+            "loop": true,
+            "sources": [
+              {
+                "source": "ivv_nsl_n2page3va.webm",
+                "type": "video/webm"
+              },
+              {
+                "source": "ivv_nsl_n2page3va.mp4",
+                "type": "video/mp4"
+              }
+            ],
+            "description": "This is the constantly repeated part of the video with the speeding up cart from the previous page. It shows how the professor takes his hands away and the cart begins to speed up very fast."
+          },
+          "layout": {
+            "type": "widget",
+            "template": "video"
+          }
+        },
+        {
+          "data": {
+            "question_text": "Question 1: Which of the following graphs looks most like what you would expect?",
+            "question_answers": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "question_answers_images": [
+              "grapha.gif",
+              "graphb.gif",
+              "graphc.gif",
+              "graphd.gif",
+              "graphe.gif"
+            ],
+            "descriptions": [
+              "In this velocity time graph, the velocity increases nonlinearly starting from 0 and then stabilizes to some fixed value. The graph is concave down.",
+              "In this velocity time graph, the velocity increases nonlinearly starting from 0. The graph is concave down and doesn’t stabilize. ",
+              "In this velocity time graph, the velocity increases linearly starting from 0.",
+              "In this velocity time graph, the velocity is constantly positive.",
+              "In this velocity time graph, the velocity increases from 0 nonlinearly. The graph is concave up."
+            ],
+            "exports_to": "graph_choice",
+            "type": "horizontal-question"
+          },
+          "layout": {
+            "type": "widget",
+            "template": "question"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-2",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_nsl_n2p31.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_nsl_n2p31.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "n2page3.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "09_newton_s_second_law_ada_page_4.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "instructions": "Click on the white dot on the cart in each frame.",
+            "error_message": "Click closer to the white dot on the cart.",
+            "frames": [
+              "n2page3va01.jpg",
+              "n2page3va02.jpg",
+              "n2page3va03.jpg",
+              "n2page3va04.jpg",
+              "n2page3va05.jpg",
+              "n2page3va06.jpg",
+              "n2page3va07.jpg",
+              "n2page3va08.jpg",
+              "n2page3va09.jpg",
+              "n2page3va10.jpg",
+              "n2page3va11.jpg",
+              "n2page3va12.jpg"
+            ],
+            "step_time": 0.2,
+            "displays": "point",
+            "display_settings": {
+              "canvas_width": 600,
+              "canvas_height": 300
+            },
+            "track_locations": [
+              {
+                "x": 51,
+                "y": 107,
+                "r": 12
+              },
+              {
+                "x": 53,
+                "y": 107,
+                "r": 12
+              },
+              {
+                "x": 61,
+                "y": 107,
+                "r": 12
+              },
+              {
+                "x": 77,
+                "y": 107,
+                "r": 12
+              },
+              {
+                "x": 102,
+                "y": 107,
+                "r": 12
+              },
+              {
+                "x": 134,
+                "y": 107,
+                "r": 12
+              },
+              {
+                "x": 174,
+                "y": 107,
+                "r": 12
+              },
+              {
+                "x": 221,
+                "y": 107,
+                "r": 12
+              },
+              {
+                "x": 275,
+                "y": 107,
+                "r": 12
+              },
+              {
+                "x": 337,
+                "y": 107,
+                "r": 12
+              },
+              {
+                "x": 405,
+                "y": 107,
+                "r": 12
+              },
+              {
+                "x": 480,
+                "y": 107,
+                "r": 12
+              }
+            ],
+            "exports_to": "rocket_slide",
+            "description": "An interactive video on the top right shows the first frame of the previously shown video where Professor David launches the rocket cart without a passenger. The first frame corresponds to the moment t equals 0 when Professor David just released the cart.",
+            "locations_descriptions": [
+              "After clicking on the marker the video goes on and stops at the frame corresponding to t equals 0.2 seconds.",
+              "Next click runs the video until t equals 0.4 seconds. At the same time the first point of the velocity time graph at the blank space below appears. It indicates the average speed of the cart during the time interval between two clicks. It has time coordinate equals approximately 0.1 seconds and velocity coordinate 0.2 meters per second.",
+              "New click plays the video until t equals 0.6 seconds. The next point of the graph appears. It has time coordinate approximately 0.3 seconds and velocity 0.7 meters per second.",
+              "The next stop is at the frame 0.8 seconds, which gives another point at the graph with coordinates approximately 0.5 seconds and 1.4 meters per second.",
+              "Then the video stops at 1.0 seconds frame. And one gets another point at the graph with the coordinates 0.7 seconds and 2.0 meters per second.",
+              "Then the video stops at the frame t equals 1.2 seconds and another point at the graph appears. It has the coordinates 0.9 seconds and 2.7 meters per second.",
+              "The next time frame is 1.4 seconds. The corresponding point on the graph has the approximate coordinates of 1.1 seconds and 3.3 meters per second.",
+              "The next time frame is 1.6 seconds. The corresponding point on the graph has the approximate coordinates of 1.3 seconds and 3.9 meters per second.",
+              "The next time frame is 1.8 seconds. The corresponding point on the graph has the approximate coordinates of 1.5 seconds and 4.5 meters per second.",
+              "The next time frame is 2.00 seconds. The corresponding point on the graph has the approximate coordinates of 1.7 seconds and 5.1 meters per second.",
+              "The last time frame is 2.20 seconds. The corresponding point on the graph has the approximate coordinates of 1.9 seconds and 5.6 meters per second.",
+              "And the last point on the graph has the approximate coordinates of 2.1 seconds and 6.1 meters per second."
+            ],
+            "post_description": "A speed versus time data obtained: the 11 points fit the straight line passing through the origin very good."
+          },
+          "layout": {
+            "type": "widget",
+            "template": "x-y-analysis"
+          }
+        },
+        {
+          "data": {
+            "id": "Widget_n2p3-2",
+            "imports_from": "graph_choice",
+            "resource_url": "resources/Question",
+            "sources": [
+              "grapha.gif",
+              "graphb.gif",
+              "graphc.gif",
+              "graphd.gif",
+              "graphe.gif"
+            ],
+            "answers": [
+              "Carefully click on the white dot on the cart in each frame of the video. This will create a graph of the x component of velocity versus time. You predicted that the graph would look like this:",
+              "Carefully click on the white dot on the cart in each frame of the video. This will create a graph of the x component of velocity versus time. You predicted that the graph would look like this:",
+              "Carefully click on the white dot on the cart in each frame of the video. This will create a graph of the x component of velocity versus time. You predicted that the graph would look like this:",
+              "Carefully click on the white dot on the cart in each frame of the video. This will create a graph of the x component of velocity versus time. You predicted that the graph would look like this:",
+              "Carefully click on the white dot on the cart in each frame of the video. This will create a graph of the x component of velocity versus time. You predicted that the graph would look like this:"
+            ],
+            "descriptions": [
+              "In this velocity time graph, the velocity increases nonlinearly starting from 0 and then stabilizes to some fixed value. The graph is concave down.",
+              "In this velocity time graph, the velocity increases nonlinearly starting from 0. The graph is concave down and doesn’t stabilize. ",
+              "In this velocity time graph, the velocity increases linearly starting from 0.",
+              "In this velocity time graph, the velocity is constantly positive.",
+              "In this velocity time graph, the velocity increases from 0 nonlinearly. The graph is concave up."
+            ]
+          },
+          "layout": {
+            "type": "widget",
+            "template": "answer"
+          }
+        },
+        {
+          "data": {
+            "xmin": 0,
+            "xmax": 2.20,
+            "xticks": 12,
+            "xlabel": "Time (s)",
+            "showXLabel": true,
+            "ymin": 0,
+            "ymax": 7,
+            "yticks": 8,
+            "ylabel": "Velocity (m/s)",
+            "ytoFixed": 0,
+            "showYLabel": true,
+            "showLegend": false,
+            "legendLocation": "nw",
+            "plots": [
+              {
+                "label": "Horizontal Velocity",
+                "trendline": false,
+                "dragable": false,
+                "smooth": true,
+                "showLine": false,
+                "color": "orange",
+                "lineWidth": 2.5,
+                "showMarkers": true,
+                "markerStyle": "filledCircle",
+                "markerSize": 9,
+                "imports_from": "rocket_slide",
+                "indices": {
+                  "x": 3,
+                  "y": 1
+                },
+                "velocityGraph": true,
+                "equations": {
+                  "x": "x",
+                  "y": "0.01636*y"
+                }
+              }
+            ]
+          },
+          "layout": {
+            "type": "widget",
+            "template": "x-y-graph"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_nsl_n2p41.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_nsl_n2p41.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "n2page4.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "09_newton_s_second_law_ada_page_5.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-2",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_nsl_n2p51.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_nsl_n2p51.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "n2page5.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "09_newton_s_second_law_ada_page_6.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "error_message": "Click closer to the yellow dot on the cart.",
+            "frames": [
+              "n2page5va01.jpg",
+              "n2page5va02.jpg",
+              "n2page5va03.jpg",
+              "n2page5va04.jpg",
+              "n2page5va05.jpg",
+              "n2page5va06.jpg",
+              "n2page5va07.jpg",
+              "n2page5va08.jpg",
+              "n2page5va09.jpg",
+              "n2page5va10.jpg"
+            ],
+            "instructions": "Click on the yellow dot on the cart.",
+            "step_time": 0.33367,
+            "displays": "point",
+            "display_settings": {
+              "canvas_width": 600,
+              "canvas_height": 300
+            },
+            "track_locations": [
+              {
+                "x": 126,
+                "y": 70,
+                "r": 12
+              },
+              {
+                "x": 130,
+                "y": 70,
+                "r": 12
+              },
+              {
+                "x": 141,
+                "y": 70,
+                "r": 12
+              },
+              {
+                "x": 161,
+                "y": 70,
+                "r": 12
+              },
+              {
+                "x": 190,
+                "y": 70,
+                "r": 12
+              },
+              {
+                "x": 228,
+                "y": 70,
+                "r": 12
+              },
+              {
+                "x": 275,
+                "y": 70,
+                "r": 12
+              },
+              {
+                "x": 330,
+                "y": 70,
+                "r": 12
+              },
+              {
+                "x": 393,
+                "y": 70,
+                "r": 12
+              },
+              {
+                "x": 464,
+                "y": 70,
+                "r": 12
+              }
+            ],
+            "description": "An interactive video on the top right shows the first frame of the previously shown video where Professor David had launched low friction cart with the fan along the track.",
+            "locations_descriptions": [
+              "The first frame corresponds to the moment t equals 0 when Professor David just released the cart. After clicking on the marker the video goes on and stops at the frame corresponding to t equals 0.33 seconds.",
+              "Next click runs the video until t equals 0.67 seconds. At the same time the first point of the velocity time graph at the blank space below appears. It indicates the average speed of the cart during the time interval between two clicks. It has time coordinate equals approximately 0.2 seconds and velocity coordinate 0.05 meters per second.",
+              "New click plays the video until t equals 1.00 seconds. The next point of the graph appears. It has time coordinate approximately 0.5 seconds and velocity 0.15 meters per second.",
+              "The next stop is at the frame 1.33 seconds, which gives another point at the graph with coordinates approximately 0.8 seconds and 0.25 meters per second.",
+              "The next time frame is 1.67 seconds. The corresponding point on the graph has the approximate coordinates of 1.2 seconds and 0.36 meters per second.",
+              "The next time frame is 2.00 seconds. The corresponding point on the graph has the approximate coordinates of 1.5 seconds and 0.48 meters per second.",
+              "The next time frame is 2.34 seconds. The corresponding point on the graph has the approximate coordinates of 1.8 seconds and 0.57 meters per second.",
+              "The next time frame is 2.67 seconds. The corresponding point on the graph has the approximate coordinates of 2.2 seconds and 0.65 meters per second.",
+              "The last time frame is 3.00 seconds. The corresponding point on the graph has the approximate coordinates of 2.5 seconds and 0.77 meters per second.",
+              "And the last point on the graph has the approximate coordinates of 2.8 seconds and 0.87 meters per second."
+            ],
+            "post_description": "A speed versus time data obtained: the 9 points fit the straight line passing through the origin very good.",
+            "exports_to": "cart_slide"
+          },
+          "layout": {
+            "type": "widget",
+            "template": "x-y-analysis"
+          }
+        },
+        {
+          "data": {
+            "content": "Carefully click on the yellow dot on the cart in each frame of the video. This will create a graph of the x component of velocity versus time."
+          },
+          "layout": {
+            "template": "text",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "xmin": 0.0,
+            "xmax": 4.5,
+            "xticks": 10,
+            "xlabel": "Time (s)",
+            "showXLabel": true,
+            "ymin": 0,
+            "ymax": 1,
+            "yticks": 5,
+            "ylabel": "Velocity (m/s)",
+            "showYLabel": true,
+            "showLegend": false,
+            "legendLocation": "nw",
+            "plots": [
+              {
+                "label": "Vertical Velocity",
+                "trendline": false,
+                "dragable": false,
+                "smooth": true,
+                "showLine": false,
+                "color": "orange",
+                "lineWidth": 2.5,
+                "showMarkers": true,
+                "markerStyle": "filledCircle",
+                "markerSize": 9,
+                "imports_from": "cart_slide",
+                "indices": {
+                  "x": 3,
+                  "y": 1
+                },
+                "velocityGraph": true,
+                "equations": {
+                  "x": "x",
+                  "y": "0.004*y"
+                }
+              }
+            ]
+          },
+          "layout": {
+            "type": "widget",
+            "template": "x-y-graph"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_nsl_n2p61.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_nsl_n2p61.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "n2page6.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "09_newton_s_second_law_ada_page_7.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "content": "Please choose the best answer."
+          },
+          "layout": {
+            "template": "text",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "question_text": "The force of the fan remains the same. Compared to the acceleration (a) of the original cart, the cart with double mass will have an acceleration of:",
+            "question_answers": [
+              "2 a",
+              "a",
+              "&frac12; a",
+              "Not enough information to decide."
+            ],
+            "descriptions": [
+              "The new acceleration would be twice as large as before.",
+              "The new acceleration would be the same as before.",
+              "The new acceleration would be half as large as before.",
+              "There is not enough information to decide."
+            ],
+            "exports_to": "cart_acc"
+          },
+          "layout": {
+            "type": "widget",
+            "template": "question"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-2",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_nsl_n2p71.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_nsl_n2p71.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "n2page7.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "09_newton_s_second_law_ada_page_8.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "error_message": "Click closer to the yellow dot on the cart.",
+            "resource_url": "resources/Analysis",
+            "frames": [
+              "n2page7va01.jpg",
+              "n2page7va02.jpg",
+              "n2page7va03.jpg",
+              "n2page7va04.jpg",
+              "n2page7va05.jpg",
+              "n2page7va06.jpg",
+              "n2page7va07.jpg",
+              "n2page7va08.jpg",
+              "n2page7va09.jpg",
+              "n2page7va10.jpg"
+            ],
+            "instructions": "Click on the yellow dot on the cart.",
+            "step_time": 0.5,
+            "displays": "point",
+            "display_settings": {
+              "canvas_width": 600,
+              "canvas_height": 300
+            },
+            "description": "An interactive video on the top right shows the first frame of a new video that demonstrates how the cart with the same fan, but with twice the mass, moves along the same track.",
+            "locations_descriptions": [
+              "The first frame corresponds to the moment t equals 0 when Professor David just released the cart. After clicking on the marker the video goes on and stops at the frame corresponding to t equals 0.5 seconds.",
+              "Next click runs the video until t equals 1.00 seconds. At the same time the first point of the velocity time graph at the blank space below appears. It indicates the average speed of the cart during the time interval between two clicks. It has time coordinate equals approximately 0.3 seconds and velocity coordinate 0.03 meters per second.",
+              "New click plays the video until t equals 1.5 seconds. The next point of the graph appears. It has time coordinate approximately 0.8 seconds and velocity 0.13 meters per second.",
+              "The next stop is at the frame 2.0 seconds, which gives another point at the graph with coordinates approximately 1.3 seconds and 0.22 meters per second.",
+              "The next time frame is 2.5 seconds. The corresponding point on the graph has the approximate coordinates of 1.8 seconds and 0.28 meters per second.",
+              "The next time frame is 3.0 seconds. The corresponding point on the graph has the approximate coordinates of 2.3 seconds and 0.34 meters per second.",
+              "The next time frame is 3.5 seconds. The corresponding point on the graph has the approximate coordinates of 2.8 seconds and 0.41 meters per second.",
+              "The next time frame is 4.0 seconds. The corresponding point on the graph has the approximate coordinates of 3.3 seconds and 0.50 meters per second.",
+              "The last time frame is 4.5 seconds. The corresponding point on the graph has the approximate coordinates of 3.8 seconds and 0.56 meters per second.",
+              "And the last point on the graph has the approximate coordinates of 4.3 seconds and 0.63 meters per second."
+            ],
+            "post_description": "A speed versus time data obtained: the 9 points fit the straight line passing through the origin very good. This graph is shallower than the analogous one on the previous page.",
+            "track_locations": [
+              {
+                "x": 86,
+                "y": 70,
+                "r": 12
+              },
+              {
+                "x": 92,
+                "y": 70,
+                "r": 12
+              },
+              {
+                "x": 108,
+                "y": 70,
+                "r": 12
+              },
+              {
+                "x": 135,
+                "y": 70,
+                "r": 12
+              },
+              {
+                "x": 171,
+                "y": 70,
+                "r": 12
+              },
+              {
+                "x": 216,
+                "y": 70,
+                "r": 12
+              },
+              {
+                "x": 269,
+                "y": 70,
+                "r": 12
+              },
+              {
+                "x": 331,
+                "y": 70,
+                "r": 12
+              },
+              {
+                "x": 401,
+                "y": 70,
+                "r": 12
+              },
+              {
+                "x": 480,
+                "y": 70,
+                "r": 12
+              }
+            ],
+            "exports_to": "cart_slide2"
+          },
+          "layout": {
+            "type": "widget",
+            "template": "x-y-analysis"
+          }
+        },
+        {
+          "data": {
+            "content": "Carefully click on the yellow dot on the cart in each frame of the video. This will create a graph of the x component of velocity versus time."
+          },
+          "layout": {
+            "template": "text",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "xmin": 0.0,
+            "xmax": 4.5,
+            "xticks": 10,
+            "xlabel": "Time (s)",
+            "showXLabel": true,
+            "ymin": 0,
+            "ymax": 1,
+            "yticks": 5,
+            "ylabel": "Velocity (m/s)",
+            "showYLabel": true,
+            "showLegend": false,
+            "legendLocation": "nw",
+            "plots": [
+              {
+                "label": "Vertical Velocity",
+                "trendline": false,
+                "dragable": false,
+                "smooth": true,
+                "showLine": false,
+                "color": "orange",
+                "lineWidth": 2.5,
+                "showMarkers": true,
+                "markerStyle": "filledCircle",
+                "markerSize": 9,
+                "imports_from": "cart_slide2",
+                "indices": {
+                  "x": 3,
+                  "y": 1
+                },
+                "velocityGraph": true,
+                "equations": {
+                  "x": "x",
+                  "y": "0.004*y"
+                }
+              }
+            ]
+          },
+          "layout": {
+            "type": "widget",
+            "template": "x-y-graph"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-2",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_nsl_n2p81.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_nsl_n2p81.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "n2page8.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "09_newton_s_second_law_ada_page_9.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "imports_from": "cart_acc",
+            "answers": [
+              "Here are your prediction and the graphs you measured. Do they agree?\nThe force of the fan is the same. Compared to the acceleration a of the original cart, the cart with double mass will have an acceleration of: \nYour answer was 2 a\nTO MEASURE THE SLOPE: Click on one end of the black line in the graph to select it. Move the cursor where you want to put that end and click again to place it. The intercept and slope appear along the bottom of the graph. The slope of a velocity graph is the acceleration. Adjust the black lines on both graphs so they agree with the measured points and then compare the slopes.",
+              "Here are your prediction and the graphs you measured. Do they agree?\nThe force of the fan is the same. Compared to the acceleration a of the original cart, the cart with double mass will have an acceleration of: \nYour answer was a\nTO MEASURE THE SLOPE: Click on one end of the black line in the graph to select it. Move the cursor where you want to put that end and click again to place it. The intercept and slope appear along the bottom of the graph. The slope of a velocity graph is the acceleration. Adjust the black lines on both graphs so they agree with the measured points and then compare the slopes.",
+              "Here are your prediction and the graphs you measured. Do they agree?\nThe force of the fan is the same. Compared to the acceleration a of the original cart, the cart with double mass will have an acceleration of: \nYour answer was &frac12; a\nTO MEASURE THE SLOPE: Click on one end of the black line in the graph to select it. Move the cursor where you want to put that end and click again to place it. The intercept and slope appear along the bottom of the graph. The slope of a velocity graph is the acceleration. Adjust the black lines on both graphs so they agree with the measured points and then compare the slopes.",
+              "Here are your prediction and the graphs you measured. Do they agree?\nThe force of the fan is the same. Compared to the acceleration a of the original cart, the cart with double mass will have an acceleration of: \nYour answer was Not enough information to decide.\nTO MEASURE THE SLOPE: Click on one end of the black line in the graph to select it. Move the cursor where you want to put that end and click again to place it. The intercept and slope appear along the bottom of the graph. The slope of a velocity graph is the acceleration. Adjust the black lines on both graphs so they agree with the measured points and then compare the slopes."
+            ]
+          },
+          "layout": {
+            "type": "widget",
+            "template": "answer"
+          }
+        },
+        {
+          "data": {
+            "description": "This is the velocity time graph obtained in the experiment with the single mass cart. It is equipped with the special line that permits to measure the slope. Fitting the line with the experimental data one can find that the slope of the graph and, thus, the acceleration in the first experiment is approximately 0.30 meters over seconds squared.",
+            "xmin": 0.0,
+            "xmax": 4.5,
+            "xticks": 10,
+            "xlabel": "Single Mass. Time (s)",
+            "showXLabel": true,
+            "ymin": 0,
+            "ymax": 1,
+            "yticks": 5,
+            "ylabel": "Velocity (m/s)",
+            "showYLabel": true,
+            "showLegend": false,
+            "legendLocation": "nw",
+            "plots": [
+              {
+                "label": "Vertical Velocity",
+                "trendline": false,
+                "dragable": false,
+                "smooth": true,
+                "showLine": false,
+                "color": "orange",
+                "lineWidth": 2.5,
+                "showMarkers": true,
+                "markerStyle": "filledCircle",
+                "markerSize": 9,
+                "imports_from": "cart_slide",
+                "indices": {
+                  "x": 3,
+                  "y": 1
+                },
+                "velocityGraph": true,
+                "equations": {
+                  "x": "x",
+                  "y": "0.004*y"
+                }
+              },
+              {
+                "label": "Linear Model",
+                "trendline": false,
+                "dragable": true,
+                "smooth": false,
+                "showLine": true,
+                "color": "#2e9cd4",
+                "lineWidth": 2.5,
+                "showMarkers": true,
+                "markerStyle": "square",
+                "markerSize": 14,
+                "coordinates": [
+                  [
+                    0.1,
+                    0.1
+                  ],
+                  [
+                    0.8,
+                    0.8
+                  ]
+                ]
+              }
+            ]
+          },
+          "layout": {
+            "type": "widget",
+            "template": "x-y-graph"
+          }
+        },
+        {
+          "data": {
+            "description": "This is the velocity time graph obtained in the experiment with the double mass cart. It is equipped with the special line that permits to measure the slope. Fitting the line with the experimental data one can find that the slope of the graph and, thus, the acceleration in the second experiment is approximately 0.15 meters over seconds squared.",
+            "xmin": 0.0,
+            "xmax": 4.5,
+            "xticks": 10,
+            "xlabel": "Double Mass. Time (s)",
+            "showXLabel": true,
+            "ymin": 0,
+            "ymax": 1,
+            "yticks": 5,
+            "ylabel": "Velocity (m/s)",
+            "showYLabel": true,
+            "showLegend": false,
+            "legendLocation": "nw",
+            "plots": [
+              {
+                "label": "Vertical Velocity",
+                "trendline": false,
+                "dragable": false,
+                "smooth": true,
+                "showLine": false,
+                "color": "orange",
+                "lineWidth": 2.5,
+                "showMarkers": true,
+                "markerStyle": "filledCircle",
+                "markerSize": 9,
+                "imports_from": "cart_slide2",
+                "indices": {
+                  "x": 3,
+                  "y": 1
+                },
+                "velocityGraph": true,
+                "equations": {
+                  "x": "x",
+                  "y": "0.004*y"
+                }
+              },
+              {
+                "label": "Linear Model",
+                "trendline": false,
+                "dragable": true,
+                "smooth": false,
+                "showLine": true,
+                "color": "#2e9cd4",
+                "lineWidth": 2.5,
+                "showMarkers": true,
+                "markerStyle": "square",
+                "markerSize": 14,
+                "coordinates": [
+                  [
+                    0.1,
+                    0.1
+                  ],
+                  [
+                    0.8,
+                    0.8
+                  ]
+                ]
+              }
+            ]
+          },
+          "layout": {
+            "type": "widget",
+            "template": "x-y-graph"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_nsl_n2p91.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_nsl_n2p91.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "n2page9.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "09_newton_s_second_law_ada_page_9.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {},
+          "layout": {
+            "template": "certificate",
+            "type": "widget"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "title": "Charges Interacting",
+  "description": "To navigate through the elements on each page, use TAB. There are two buttons at the bottom of each page. Previous button on the left, if available, leads to the previous page. Next button on the right, if available, leads to the next page. You can control the video player in the following ways: using spacebar, you can pause or resume the player. The left and right arrow keys rewind back and forward. The up and down arrow keys adjust the loudness.",
+  "pages": [
+    {
+      "layout": {
+        "template": "1-2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "url": "chargesinteracting.jpg",
+            "description": "Sydney, Leah, and Robert are sitting at the table. On the table, there is a set up covered with an aluminum foil, some pieces of fur and a balloon."
+          },
+          "layout": {
+            "template": "image",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {},
+          "layout": {
+            "template": "login",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "url": "chargesinteracting1.jpg",
+            "description": "Two vertical thin rectangular blocks covered with aluminum foil are standing on the table with a distance of 30 centimeters between them. Robert is trying to set one of the boards."
+          },
+          "layout": {
+            "template": "image",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_ci_page_11_es_3_page_1.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_ci_page_11_es_3_page_1.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "es_3_page_1.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "04_charges_interacting_ada_page_2.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_ci_page_21_es_3_page_2.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_ci_page_21_es_3_page_2.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "es_3_page_2.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "04_charges_interacting_ada_page_3.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "content": "We will bring the charged balloon near the front board, separate the boards, and then move the balloon away.\n"
+          },
+          "layout": {
+            "template": "text",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "exports_to": "PPage_2_W3_question",
+            "is_branched": false,
+            "is_multi_select": false,
+            "question_answers": [
+              "The front board will be positive and the back board uncharged.",
+              "Both boards will have a positive front side and a negative back side.",
+              "The front board will be positive and the back board will be negative.",
+              "Trick question! Both boards will be neutral."
+            ],
+            "question_text": "What will the charges on the boards be after the balloon is taken away?",
+            "randomize": false
+          },
+          "layout": {
+            "template": "question",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_ci_page_31_es_3_page_3.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_ci_page_31_es_3_page_3.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "es-3_page_3.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "04_charges_interacting_ada_page_4.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "content": "Does your answer agree with what we observe?"
+          },
+          "layout": {
+            "template": "text",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "imports_from": "PPage_2_W3_question",
+            "answers": [
+              "When asked, \"What will the charges on the boards be after the balloon is taken away?\", you answered:\n\"The front board will be positive and the back board uncharged.\"",
+              "When asked, \"What will the charges on the boards be after the balloon is taken away?\", you answered:\n\"Both boards will have a positive front side and a negative back side.\"",
+              "When asked, \"What will the charges on the boards be after the balloon is taken away?\", you answered:\n\"The front board will be positive and the back board will be negative.\"",
+              "When asked, \"What will the charges on the boards be after the balloon is taken away?\", you answered:\n\"Trick question! Both boards will be neutral.\""
+            ]
+          },
+          "layout": {
+            "template": "answer",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_ci_page_41_es_3_page_4.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_ci_page_41_es_3_page_4.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "es-3_page_4.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "04_charges_interacting_ada_page_5.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {},
+          "layout": {
+            "template": "certificate",
+            "type": "widget"
+          }
+        }
+      ]
+    }
+  ]
+}

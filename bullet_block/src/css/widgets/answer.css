@@ -1,0 +1,31 @@
+.answer-container {
+  height: 100%;
+  box-sizing: border-box;
+  padding: 15px;
+  width: 100%;
+}
+
+.answer {
+  height: 100%;
+}
+
+.answer p {
+  padding: 25px 25px 15px 25px;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.answer img {
+  width: 160px;
+  margin: 0 auto;
+  display: block;
+  height: auto;
+}
+
+@media only screen and (max-width: 699px) {
+  .answer p {
+    padding: 15px 15px 5px 15px;
+    font-weight: normal;
+    font-size: 14px;
+  }
+}

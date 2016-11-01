@@ -1,0 +1,724 @@
+{
+  "title": "Newton's First Law",
+  "pages": [
+    {
+      "layout": {
+        "template": "1-2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "url": "intro.jpg",
+            "transcript": "Professor David is pushing a block along a long rag on the floor."
+          },
+          "layout": {
+            "template": "image",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {},
+          "layout": {
+            "template": "login",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "url": "intro1.jpg",
+            "transcript": "Professor David is speaking with two boys."
+          },
+          "layout": {
+            "template": "image",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_nfl_pg11.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_nfl_pg11.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "page1.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "08_newton_s_first_law_ada_page_2.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_nfl_pg21.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_nfl_pg21.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "page2.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "08_newton_s_first_law_ada_page_3.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "content": "Please choose the best answer. Don't worry... it will not be graded. On the next page you'll be able to figure out which answer is correct."
+          },
+          "layout": {
+            "template": "text",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "question_text": "Question 1: Which of the following graphs looks most like what you would expect?",
+            "question_answers": [
+              "A.",
+              "B.",
+              "C.",
+              "D."
+            ],
+            "question_answers_images": [
+              "grapha.gif",
+              "graphb.gif",
+              "graphc.gif",
+              "graphd.gif"
+            ],
+            "descriptions": [
+              "In this speed versus time graph, speed increases linearly starting from some initial positive value.",
+              "In this speed versus time graph, speed remains constantly equal to some positive value.",
+              "This speed versus time graph starts with some initial positive value and goes to zero nonlinearly. It is concave down. ",
+              "In this speed versus time graph, speed starts from some initial positive value and goes to zero linearly."
+            ],
+            "exports_to": "graph_choice",
+            "type": "horizontal-question"
+          },
+          "layout": {
+            "type": "widget",
+            "template": "question"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-2",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_nfl_pg31.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_nfl_pg31.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "page3.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "08_newton_s_first_law_ada_page_4.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "description": "This interactive video shows the first frame of the previously shown video where Professor David had pushed the block along the rag. The first frame corresponds to the moment t equals 0 when Professor David just released the block.",
+            "locations_descriptions": [
+              "After clicking on the block the video goes on and stops at the frame corresponding to t equals 0.13 seconds.",
+              "Next click moves the video until t equals 0.25 seconds. At the same time the first point of the speed versus time graph at the blank space below appears. It indicates the average speed of the block during the time interval between two clicks. It has time coordinate equals approximately 0.06 seconds and speed coordinate 4.1 meters per second.",
+              "New click plays the video until t equals 0.38 seconds. The next point of the graph appears. It has time coordinate approximately 0.19 seconds and speed 3.6 meters per second.",
+              "The next stop is at the frame 0.50 seconds, which gives another point at the graph with coordinates approximately 0.31 seconds and 3.3 meters per second.",
+              "Then the video stops at 0.63 seconds frame. And one gets another point at the graph with the coordinates 0.44 seconds and 2.8 meters per second.",
+              "Then the video stops at the frame t equals 0.75 second and another point at the graph appears. It has the coordinates 0.56 seconds and 2.4 meters per second.",
+              "The next time frame is 0.88 seconds. The corresponding point on the graph has the approximate coordinates of 0.69 seconds and 1.8 meters per second.",
+              "The next time frame is 1.00 seconds. The corresponding point on the graph has the approximate coordinates of 0.81 seconds and 1.5 meters per second.",
+              "The next time frame is 1.13 seconds. The corresponding point on the graph has the approximate coordinates of 0.94 seconds and 1.2 meters per second.",
+              "The last time frame is 1.25 seconds. The corresponding point on the graph has the approximate coordinates of 1.06 seconds and 0.7 meters per second.",
+              "And the last point on the graph has the approximate coordinates of 1.19 seconds and 0.3 meters per second."
+            ],
+            "post_description": "A speed versus time graph obtained. The 10 points lie on the graph of linearly decreasing function with a good accuracy.",
+            "error_message": "Please click on the center of the block.",
+            "frames": [
+              "n1_block_15fps_00.jpg",
+              "n1_block_15fps_01.jpg",
+              "n1_block_15fps_02.jpg",
+              "n1_block_15fps_03.jpg",
+              "n1_block_15fps_04.jpg",
+              "n1_block_15fps_05.jpg",
+              "n1_block_15fps_06.jpg",
+              "n1_block_15fps_07.jpg",
+              "n1_block_15fps_08.jpg",
+              "n1_block_15fps_09.jpg",
+              "n1_block_15fps_10.jpg"
+            ],
+            "instructions": "Click on the block in each frame.",
+            "tracks": "circle",
+            "step_time": 0.125,
+            "hint": "",
+            "displays": "point",
+            "display_settings": {
+              "canvas_width": 600,
+              "canvas_height": 300
+            },
+            "track_locations": [
+              {
+                "x": 329,
+                "y": 74,
+                "r": 12
+              },
+              {
+                "x": 295,
+                "y": 73,
+                "r": 12
+              },
+              {
+                "x": 265,
+                "y": 72,
+                "r": 12
+              },
+              {
+                "x": 238,
+                "y": 72,
+                "r": 12
+              },
+              {
+                "x": 215,
+                "y": 71,
+                "r": 12
+              },
+              {
+                "x": 195,
+                "y": 71,
+                "r": 12
+              },
+              {
+                "x": 180,
+                "y": 70,
+                "r": 12
+              },
+              {
+                "x": 168,
+                "y": 71,
+                "r": 12
+              },
+              {
+                "x": 159,
+                "y": 70,
+                "r": 12
+              },
+              {
+                "x": 153,
+                "y": 70,
+                "r": 12
+              },
+              {
+                "x": 150,
+                "y": 70,
+                "r": 12
+              }
+            ],
+            "exports_to": "block_slide"
+          },
+          "layout": {
+            "type": "widget",
+            "template": "x-y-analysis"
+          }
+        },
+        {
+          "data": {
+            "content": "Carefully click on the center of the block in each frame of the video. This will create a graph of the <strong>speed</strong> of the block versus time."
+          },
+          "layout": {
+            "template": "text",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "xmin": 0,
+            "xmax": 1.25,
+            "xticks": 11,
+            "xlabel": "Time (s)",
+            "showXLabel": true,
+            "ymin": 0,
+            "ymax": 5,
+            "yticks": 11,
+            "ylabel": "Speed (m/s)",
+            "showYLabel": true,
+            "showLegend": false,
+            "legendLocation": "nw",
+            "plots": [
+              {
+                "label": "Horizontal Velocity",
+                "trendline": false,
+                "dragable": false,
+                "smooth": true,
+                "showLine": false,
+                "color": "orange",
+                "lineWidth": 2.5,
+                "showMarkers": true,
+                "markerStyle": "filledCircle",
+                "markerSize": 9,
+                "imports_from": "block_slide",
+                "indices": {
+                  "x": 3,
+                  "y": 1
+                },
+                "velocityGraph": true,
+                "equations": {
+                  "x": "x",
+                  "y": "y*-0.015"
+                }
+              }
+            ]
+          },
+          "layout": {
+            "type": "widget",
+            "template": "x-y-graph"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-2",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_nfl_pg41.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_nfl_pg41.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "page4.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "08_newton_s_first_law_ada_page_5.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "imports_from": "graph_choice",
+            "sources": [
+              "grapha.gif",
+              "graphb.gif",
+              "graphc.gif",
+              "graphd.gif"
+            ],
+            "descriptions": [
+              "In this speed versus time graph, speed increases linearly starting from some initial positive value.",
+              "In this speed versus time graph, speed remains constantly equal to some positive value.",
+              "This speed versus time graph starts with some initial positive value and goes to zero nonlinearly. It is concave down. ",
+              "In this speed versus time graph, speed starts from some initial positive value and goes to zero linearly."
+            ],
+            "answers": [
+              "You predicted that the graph would look like this:",
+              "You predicted that the graph would look like this:",
+              "You predicted that the graph would look like this:",
+              "You predicted that the graph would look like this:"
+            ]
+          },
+          "layout": {
+            "type": "widget",
+            "template": "answer"
+          }
+        },
+        {
+          "data": {
+            "content": "Here is your prediction and the graph you measured. Do they agree?"
+          },
+          "layout": {
+            "template": "text",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "xmin": 0,
+            "xmax": 1.25,
+            "xticks": 11,
+            "xlabel": "Time (s)",
+            "showXLabel": true,
+            "ymin": 0,
+            "ymax": 5,
+            "yticks": 11,
+            "ylabel": "Speed (m/s)",
+            "showYLabel": true,
+            "showLegend": false,
+            "legendLocation": "nw",
+            "plots": [
+              {
+                "label": "Horizontal Velocity",
+                "trendline": false,
+                "dragable": false,
+                "smooth": true,
+                "showLine": false,
+                "color": "orange",
+                "lineWidth": 2.5,
+                "showMarkers": true,
+                "markerStyle": "filledCircle",
+                "markerSize": 9,
+                "imports_from": "block_slide",
+                "indices": {
+                  "x": 3,
+                  "y": 1
+                },
+                "velocityGraph": true,
+                "equations": {
+                  "x": "x",
+                  "y": "y*-0.015"
+                }
+              }
+            ]
+          },
+          "layout": {
+            "type": "widget",
+            "template": "x-y-graph"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_nfl_pg51.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_nfl_pg51.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "page5.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "08_newton_s_first_law_ada_page_6.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-2",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_nfl_pg61.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_nfl_pg61.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "page6.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "08_newton_s_first_law_ada_page_7.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "description": "This interactive video shows the first frame of the previously shown video where Professor David had pushed the dry ice puck. The first frame corresponds to the moment t equals 0 when Professor David just released the puck.",
+            "locations_descriptions": [
+              "After clicking on the puck the video goes on and stops at the frame corresponding to t equals 0.13 seconds.",
+              "Next click moves the video until t equals 0.25 seconds. At the same time the first point of the speed versus time graph at the blank space below appears. It indicates the average speed of the puck during the time interval between two clicks. It has time coordinate equals approximately 0.06 seconds and speed coordinate 4.7 meters per second.",
+              "New click plays the video until t equals 0.38 seconds. The next point of the graph appears. It has time coordinate approximately 0.19 seconds and speed 4.7 meters per second.",
+              "The next stop is at the frame 0.50 seconds, which gives another point at the graph with coordinates approximately 0.31 seconds and 4.7 meters per second.",
+              "Then the video stops at 0.63 seconds frame. And one gets another point at the graph with the coordinates 0.44 seconds and 4.8 meters per second.",
+              "Then the video stops at the frame t equals 0.75 second and another point at the graph appears. It has the coordinates 0.56 seconds and 4.8 meters per second.",
+              "The next time frame is 0.88 seconds. The corresponding point on the graph has the approximate coordinates of 0.69 seconds and 4.7 meters per second.",
+              "The last time frame is 1.00 seconds. The corresponding point on the graph has the approximate coordinates of 0.81 seconds and 4.7 meters per second.",
+              "And the last point on the graph has the approximate coordinates of 0.94 seconds and 4.7 meters per second."
+            ],
+            "post_description": "A speed versus time graph obtained. The 8 points lie on the horizontal line with a good accuracy.",
+            "error_message": "Please click the center of the dry ice puck.",
+            "frames": [
+              "dry_ice_analysis_00.jpg",
+              "dry_ice_analysis_01.jpg",
+              "dry_ice_analysis_02.jpg",
+              "dry_ice_analysis_03.jpg",
+              "dry_ice_analysis_04.jpg",
+              "dry_ice_analysis_05.jpg",
+              "dry_ice_analysis_06.jpg",
+              "dry_ice_analysis_07.jpg",
+              "dry_ice_analysis_08.jpg"
+            ],
+            "instructions": "Click on the center of the dry ice puck in each frame.",
+            "tracks": "circle",
+            "step_time": 0.125,
+            "displays": "point",
+            "display_settings": {
+              "canvas_width": 600,
+              "canvas_height": 300
+            },
+            "track_locations": [
+              {
+                "x": 506,
+                "y": 133,
+                "r": 12
+              },
+              {
+                "x": 452,
+                "y": 133,
+                "r": 12
+              },
+              {
+                "x": 398,
+                "y": 132,
+                "r": 12
+              },
+              {
+                "x": 344,
+                "y": 131,
+                "r": 12
+              },
+              {
+                "x": 289,
+                "y": 131,
+                "r": 12
+              },
+              {
+                "x": 234,
+                "y": 130,
+                "r": 12
+              },
+              {
+                "x": 180,
+                "y": 130,
+                "r": 12
+              },
+              {
+                "x": 126,
+                "y": 128,
+                "r": 12
+              },
+              {
+                "x": 72,
+                "y": 128,
+                "r": 12
+              }
+            ],
+            "exports_to": "icepuck_slide"
+          },
+          "layout": {
+            "type": "widget",
+            "template": "x-y-analysis"
+          }
+        },
+        {
+          "data": {
+            "content": "Carefully click on the center of the dry ice puck in each frame of the video. This will create a graph of the speed of the puck versus time. "
+          },
+          "layout": {
+            "template": "text",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "xmin": 0,
+            "xmax": 1.00,
+            "xticks": 9,
+            "xlabel": "Time (s)",
+            "showXLabel": true,
+            "ymin": 0,
+            "ymax": 8,
+            "yticks": 9,
+            "ylabel": "Speed (m/s)",
+            "showYLabel": true,
+            "showLegend": false,
+            "legendLocation": "nw",
+            "plots": [
+              {
+                "label": "Horizontal Velocity",
+                "trendline": false,
+                "dragable": false,
+                "smooth": true,
+                "showLine": false,
+                "color": "orange",
+                "lineWidth": 2.5,
+                "showMarkers": true,
+                "markerStyle": "filledCircle",
+                "markerSize": 9,
+                "imports_from": "icepuck_slide",
+                "indices": {
+                  "x": 3,
+                  "y": 1
+                },
+                "velocityGraph": true,
+                "equations": {
+                  "x": "x",
+                  "y": "y*-0.011"
+                }
+              }
+            ]
+          },
+          "layout": {
+            "type": "widget",
+            "template": "x-y-graph"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_nfl_pg71.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_nfl_pg71.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "page7.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "08_newton_s_first_law_ada_page_8.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {},
+          "layout": {
+            "template": "certificate",
+            "type": "widget"
+          }
+        }
+      ]
+    }
+  ]
+}

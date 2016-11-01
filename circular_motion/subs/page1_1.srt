@@ -1,0 +1,38 @@
+0
+00:00:10,000 --> 00:00:18,500
+Jessica: Hey Professor!
+Professor: Hey Jessica. You know, I'm really glad you're here. Professor Jackson and I 
+have been working on these videos...
+
+1
+00:00:18,500 --> 00:00:25,000
+...and what we're trying to do is show the class what it takes to make a rolling ball
+start moving in a circle...
+
+2
+00:00:25,000 --> 00:00:29,500
+...and I was wondering if you would have some time to help make comments on this video 
+for me.
+
+3
+00:00:29,500 --> 00:00:35,000
+Jessica: Yeah, sure!
+Professor: Great, cause I have them right here on my iPad and what I wanted to do was 
+first just sort of...
+
+4
+00:00:35,000 --> 00:00:45,000
+...help you to understand our setup. So, what we have is we have an overhead camera and
+we were in the auditorium, so I had Professor Jackson draw a circle on the floor.
+
+5
+00:00:45,000 --> 00:00:53,000
+And that way once we hit the ball in a certain way, we could see that is was actually
+following a circle.
+Jessica: Okay, yeah
+
+6
+00:00:53,000 --> 00:01:00,000
+Professor: Great. So, before I show you the videos, what I'd like to do is just ask
+you some questions and draw some things on the board. 
+Jessica: Okay, Sure. 

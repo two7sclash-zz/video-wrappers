@@ -1,0 +1,12 @@
+0
+00:00:00,000 --> 00:00:07,000
+To determine the motion of the cart, let's do a video analysis. If you click on the yellow dot on the side of the cart
+
+1
+00:00:07,000 --> 00:00:11,000
+you'll get a velocity time graph of this constant-force motion.
+
+2
+00:00:11,000 --> 00:00:16,000
+Does the velocity increase in a steady or uniform manner?
+

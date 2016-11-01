@@ -1,0 +1,35 @@
+0
+00:00:00,000 --> 00:00:06,000
+You can see, it really doesn't slow down at all.
+
+1
+00:00:07,000 --> 00:00:13,000
+Let's do a little wrap up. So, we were able to effectively reduce friction to essentially zero.
+
+2
+00:00:14,000 --> 00:00:17,000
+Do you think we could run this experiment in a way that really go forever?
+
+3
+00:00:18,000 --> 00:00:22,000
+I guess if you reduced friction all the way to zero.
+
+4
+00:00:22,000 --> 00:00:29,000
+It's really difficult to perform the ideal experiment and that's one of the things that makes motion a little difficult to understand.
+
+5
+00:00:29,000 --> 00:00:33,000
+This is an example of what is called Newton's First Law of Motion.
+
+6
+00:00:33,000 --> 00:00:41,000
+He said, back in 1687, that if an object is moving, if it's in motion, it will continue to move
+
+7
+00:00:41,000 --> 00:00:48,000
+in a straight line with a constant speed forever, unless acted upon by another force. In principle, that is true.
+
+8
+00:00:48,000 --> 00:00:57,000
+Scientists believe it is true. In practice you can never actually do that experiment. You can only think of the idealization of that experiment.

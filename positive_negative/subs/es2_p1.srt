@@ -1,0 +1,91 @@
+0
+00:00:06,500 --> 00:00:11,000
+In our first investigation, we learned that there are two types of electric charge.
+
+1
+00:00:11,000 --> 00:00:17,000
+For now, we're calling them "pointy charge" and "square charge." We learned that they 
+really are different...
+
+2
+00:00:17,000 --> 00:00:22,500
+...since like-charged objects repel each other and unlike-charged objects attract each 
+other.
+
+3
+00:00:22,500 --> 00:00:31,000
+In our next set of investigations, we'll explore how things actually become charged and
+what it means to call a charge either postive or negative. 
+
+4
+00:00:33,750 --> 00:00:37,250
+Okay, so now I think I understand what happened with my hair earlier.
+
+5
+00:00:37,250 --> 00:00:42,000
+Just like two tapes that have the same charge, they all repelled each other. 
+
+6
+00:00:42,000 --> 00:00:49,000
+But what I don't understand is when you pull two tapes apart, they become oppositely 
+charged. 
+
+7
+00:00:49,750 --> 00:00:58,000
+Professor: Good question. You actually know a lot about that, but we just have to apply
+your knowledge. 
+
+8
+00:00:59,000 --> 00:01:03,500
+Think about the tapes and the sticky stuff. What are they made of?
+
+9
+00:01:04,000 --> 00:01:09,000
+You mean like on a really small scale? Like atoms? 
+Professor: Yeah, on a small scale. 
+
+10
+00:01:09,500 --> 00:01:14,500
+Well, everything's made of atoms. So, atoms and molecules, I guess.
+Professor: Okay.
+
+11
+00:01:14,500 --> 00:01:17,500
+So, where does charge come into this? 
+
+12
+00:01:17,500 --> 00:01:23,500
+Leah: Protons and electrons are in the charged parts of atoms. 
+Sidney: And molecules are made from atoms. 
+
+13
+00:01:23,500 --> 00:01:27,500
+Professor: Okay, so now what holds the atoms together in the molecule?
+
+14
+00:01:27,500 --> 00:01:33,500
+Robert: Chemical bonds. 
+Sidney: Okay, chemical bonds are when atoms kind of share electrons. 
+
+15
+00:01:34,000 --> 00:01:36,500
+Professor: Okay, can you say more about that?
+
+16
+00:01:36,500 --> 00:01:46,000
+Well, when atoms come together, the electrons from one of the atoms kind of are attracted
+more to the space in between the two atoms. 
+
+17
+00:01:46,000 --> 00:01:54,500
+Oh, so then the electrons that are in between the atoms will attract the other part of
+the atom that's more postive. 
+
+18
+00:01:54,500 --> 00:01:58,000
+And so it'll kind of hold the whole thing together.
+
+19
+00:01:58,000 --> 00:02:04,000
+Professor: Very good. So, now what happens when we break the bonds between atoms in the 
+molecule?

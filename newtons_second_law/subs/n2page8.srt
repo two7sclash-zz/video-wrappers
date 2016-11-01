@@ -1,0 +1,16 @@
+0
+00:00:00,000 --> 00:00:05,000
+Here are the velocity time graphs for the two experiments we just performed. 
+
+1
+00:00:05,000 --> 00:00:11,000
+In addition to the experimental data, you'll see a line that can be moved around by dragging on its ends.
+
+2
+00:00:11,000 --> 00:00:16,000
+You should move the line on each graph to fit the experimental data as best you can. 
+
+3
+00:00:16,000 --> 00:00:22,000
+and make note of the accelerations. How do the accelerations compare with each other?
+

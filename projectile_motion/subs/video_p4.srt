@@ -1,0 +1,11 @@
+0
+00:00:00,000 --> 00:00:06,000
+Now when I tried this, I saw that the distance between the lines was approximately constant.
+
+1
+00:00:06,000 --> 00:00:11,000
+What this tells me is that the distance moved by the ball in each time interval was about the same.
+
+2
+00:00:11,000 --> 00:00:17,000
+In other words, the ball's horizontal velocity was constant.

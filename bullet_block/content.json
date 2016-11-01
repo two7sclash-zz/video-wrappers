@@ -1,0 +1,430 @@
+{
+  "title": "Bullet in a Block",
+  "description": "To navigate through the elements on each page, use TAB. There are two buttons at the bottom of each page. Previous button on the left, if available, leads to the previous page. Next button on the right, if available, leads to the next page. You can control the video player in the following ways: using spacebar, you can pause or resume the player. The left and right arrow keys rewind back and forward. The up and down arrow keys adjust the loudness.",
+  "pages": [
+    {
+      "layout": {
+        "template": "1-2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "url": "bb_p2_w2.jpg",
+            "description": "There are two people sitting outside and interacting with a setup. In the middle of the photo, there are two yellow baskets on a table. The table has a hole in its top. The baskets are placed to the left and to the right of the hole so, the hole is between them. The distance between the baskets is about a half of meter. Each basket has a square wooden board on it. A man on the left and a woman on the right touch the wooden boards of their sides. Between the baskets, there is a gun muzzle placed vertically and its top point is at the same height as the wooden boards. Between the wooden boards, there is a Plexiglas block, which consists of two vertical sheets of a rectangular form. It is placed so, that the baskets support the sheets from the left side and from the right side. The gun muzzle looks through the hole between Plexiglas sheets from bellow. The Plexiglas sheets support a small rectangular wooden block, which is suspended between them."
+          },
+          "layout": {
+            "template": "image",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {},
+          "layout": {
+            "template": "login",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "url": "bb_p2_w2_1.jpg",
+            "description": "There is a close-up of the experimental setup from the above photo. In the middle of the photo there is the Plexiglas block supported by two wooden boards from the left side and from the right side. The gun muzzle is placed between the wooden boards below the Plexiglas block and looks through the hole between Plexiglas sheets to the sky. The experimental rectangular wooden block is suspended between Plexiglas sheets on the top of Plexiglas block. The block has a nail, which goes through the center of mass of the block and has free pins on both sides of the block. The sheets of the Plexiglas block support these pins, so the experimental block is suspended between the Plexiglas sheets."
+          },
+          "layout": {
+            "template": "image",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_bb_p11.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_bb_p11.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "bb_p1_w1.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "03_bullet_block_ada_page_2.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_bb_p21.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_bb_p21.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "bb_p2_w1.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "03_bullet_block_ada_page_3.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "url": "bb_p2_w2.jpg",
+            "description": "There are two people sitting outside and interacting with a setup. In the middle of the photo, there are two yellow baskets on a table. The table has a hole in its top. The baskets are placed to the left and to the right of the hole so, the hole is between them. The distance between the baskets is about a half of meter. Each basket has a square wooden board on it. A man on the left and a woman on the right touch the wooden boards of their sides. Between the baskets, there is a gun muzzle placed vertically and its top point is at the same height as the wooden boards. Between the wooden boards, there is a Plexiglas block, which consists of two vertical sheets of a rectangular form. It is placed so, that the baskets support the sheets from the left side and from the right side. The gun muzzle looks through the hole between Plexiglas sheets from bellow. The Plexiglas sheets support a small rectangular wooden block, which is suspended between them."
+          },
+          "layout": {
+            "template": "image",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "id": "bb-p2-w3",
+            "question_text": "Question 1: What will happen if we move the block to the left so the bullet goes into the block close to its right side?",
+            "question_answers": [
+              "The block will spin but still go straight up.",
+              "The block will spin and fly off to the left.",
+              "The block will spin and fly off to the right.",
+              "The block will not spin. It will just go up."
+            ],
+            "exports_to": "Q1"
+          },
+          "layout": {
+            "type": "widget",
+            "template": "question"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_bb_p31.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_bb_p31.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "bb_p3_w1.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "03_bullet_block_ada_page_4.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "autoplay": true,
+            "muted": true,
+            "loop": true,
+            "sources": [
+              {
+                "source": "ivv_bb_p32.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_bb_p32.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [],
+            "description": "The close-up view of the experiment is shown in a slow motion in black and white. First, the experimental block of wood is suspended between the two Plexiglas sheets. Next, a smoke of the shot appears. Next, the experimental block starts to rise vertically very slowly so it is clear, that the block also rotates around the center of mass in counterclockwise direction in the screen plane. The experimental block rises up, rotates, comes to the top of its trajectory and then slowly falls down."
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "imports_from": "Q1",
+            "answers": [
+              "When asked,\"What will happen if we move the block to the left so the bullet goes into the block close to its right side?\" you picked the answer,\n\"The block will spin but still go straight up.\"",
+              "When asked,\"What will happen if we move the block to the left so the bullet goes into the block close to its right side?\" you picked the answer,\n\"The block will spin and fly off to the left.\"",
+              "When asked,\"What will happen if we move the block to the left so the bullet goes into the block close to its right side?\" you picked the answer,\n\"The block will spin and fly off to the right.\"",
+              "When asked,\"What will happen if we move the block to the left so the bullet goes into the block close to its right side?\" you picked the answer,\n\"The block will not spin. It will just go up.\""
+            ]
+          },
+          "layout": {
+            "type": "widget",
+            "template": "answer"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_bb_p41.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_bb_p41.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "bb_p4_w1.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "03_bullet_block_ada_page_5.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "autoplay": true,
+            "muted": true,
+            "loop": true,
+            "sources": [
+              {
+                "source": "ivv_bb_p42.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_bb_p42.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [],
+            "description": "The close-up view of the experiment is shown in a slow motion in black and white. First, the experimental block of wood is suspended between the two Plexiglas sheets. Next, a smoke of the shot appears. Next, the experimental block starts to rise vertically very slowly so it is clear, that the block also rotates around the center of mass in counterclockwise direction in the screen plane. The experimental block rises up, rotates, comes to the top of its trajectory and then slowly falls down."
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "question_text": "Question 2: How high will the spinning block go compared to the block that was hit on center?",
+            "question_answers": [
+              "The spinning block will not go  as high as the block that was hit on center.",
+              "The spinning block will go as high as the block that was hit on center.",
+              "The spinning block will go higher than the block that was hit on center."
+            ],
+            "exports_to": "Q2"
+          },
+          "layout": {
+            "type": "widget",
+            "template": "question"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "2-1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_bb_p51.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_bb_p51.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "bb_p5_w1.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "03_bullet_block_ada_page_6.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "autoplay": true,
+            "muted": true,
+            "loop": true,
+            "sources": [
+              {
+                "source": "ivv_bb_p52.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_bb_p52.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [],
+            "description": "The video screen consists of two videos. The actions on both videos are synchronized. The left one is a record of the experiment with straight-up block, and the right one is a record of the experiment with the spinning block. First, on both videos there is the full view of the experimental setup and Catrina is under the table of the experimental setup and is shooting to the experimental blocks. The video has normal rate and experimental blocks on the both parts rise up and fall down very quickly. Next, the same experiments are shown in black and white in a slow motion. First, both blocks are suspended on their Plexiglas sheets. Then appears a smoke of shot. After that, the blocks start rising up simultaneously. The block on the left video moves straight-up as it was when it was suspended. Oppositely, the block on the right video rises up and rotates around its center of mass in a counterclockwise direction in screen plane. The both blocks move synchronically at the same height. When both blocks reach the top point of their trajectory, a horizontal red line appears on the screen between the blocks, connecting their centers of masses. It shows that both blocks reach the same height. Then blocks slowly fall down."
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        },
+        {
+          "data": {
+            "id": "bb-p5-w3",
+            "imports_from": "Q2",
+            "answers": [
+              "When asked,\"How high will the spinning block go compared to the block that was hit on center?\" you picked the answer,\n\"The spinning block will not go  as high as the block that was hit on center.\"",
+              "When asked,\"How high will the spinning block go compared to the block that was hit on center?\" you picked the answer,\n\"The spinning block will go as high as the block that was hit on center.\"",
+              "When asked,\"How high will the spinning block go compared to the block that was hit on center?\" you picked the answer,\n\"The spinning block will go higher than the block that was hit on center.\""
+            ]
+          },
+          "layout": {
+            "type": "widget",
+            "template": "answer"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "autoplay": true,
+            "muted": false,
+            "loop": false,
+            "sources": [
+              {
+                "source": "ivv_bb_p61.mp4",
+                "type": "video/mp4"
+              },
+              {
+                "source": "ivv_bb_p61.webm",
+                "type": "video/webm"
+              }
+            ],
+            "subs": [
+              {
+                "source": "bb_p6_w1.srt",
+                "lang": "en"
+              }
+            ],
+            "transcript": "03_bullet_block_ada_page_7.html"
+          },
+          "layout": {
+            "template": "video",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {
+            "content": "Linear momentum is conserved in the bullet/block collision, regardless of where the bullet hits the block. The result is that both blocks will have the same upward momentum and each block's center-of-mass will rise to the same height.\n\nSince the spinning block has more kinetic energy than the non-spinning block, less of the bullet's original energy is available to deform the wood in the spinning block (e.g., the bullet may not penetrate as far)."
+          },
+          "layout": {
+            "template": "text",
+            "type": "widget"
+          }
+        }
+      ]
+    },
+    {
+      "layout": {
+        "template": "1",
+        "type": "page"
+      },
+      "elements": [
+        {
+          "data": {},
+          "layout": {
+            "template": "certificate",
+            "type": "widget"
+          }
+        }
+      ]
+    }
+  ]
+}

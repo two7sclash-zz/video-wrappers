@@ -1,0 +1,11 @@
+0
+00:00:00,000 --> 00:00:04,000
+OK, I hope you learned something about this tossed ball.
+
+1
+00:00:04,000 --> 00:00:10,000
+Oftentimes we can treat the horizontal motion separately from the vertical motion, and that simplifies things greatly.
+
+2
+00:00:10,000 --> 00:00:15,000
+So remember that.

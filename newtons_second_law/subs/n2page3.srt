@@ -1,0 +1,31 @@
+0
+00:00:00,000 --> 00:00:03,000
+Now that you've made a prediction of whether the cart speeds up or not,
+
+1
+00:00:03,000 --> 00:00:06,000
+let's make some measurements to be sure. 
+
+2
+00:00:06,000 --> 00:00:09,000
+We're going to do a video analysis of the cart movie. 
+
+3
+00:00:09,000 --> 00:00:13,000
+If you click on the little white marker on the cart in each frame of the movie,
+
+4
+00:00:13,000 --> 00:00:16,000
+the computer will calculate the cart's velocity by determining how much its position changes
+
+5
+00:00:16,000 --> 00:00:19,000
+and dividing by the time interval. 
+
+6
+00:00:19,000 --> 00:00:23,000
+The velocity time graph will be constructed as you click on each frame in the movie. 
+
+7
+00:00:23,000 --> 00:00:30,000
+By the time the graph is complete, you'll know whether or not your prediction was correct. 

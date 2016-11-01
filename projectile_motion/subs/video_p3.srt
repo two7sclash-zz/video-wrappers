@@ -1,0 +1,11 @@
+0
+00:00:00,000 --> 00:00:04,000
+We're going to concentrate on the horizontal motion of the ball first.
+
+1
+00:00:04,000 --> 00:00:08,000
+If you click on the ball in the movie it will mark the position of the ball.
+
+2
+00:00:08,000 --> 00:00:14,000
+If you look at the spacing between the lines it will tell you something about the motion of the ball.
