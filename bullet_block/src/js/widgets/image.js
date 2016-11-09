@@ -1,5 +1,5 @@
 /**
- * Created by JFishwick on 13.05.2016.
+ * Created on 13.05.2016.
  */
 define(function(require) {
   'use strict';
